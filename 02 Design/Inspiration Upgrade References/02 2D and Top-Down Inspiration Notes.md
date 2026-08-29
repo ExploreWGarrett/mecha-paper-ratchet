@@ -1,0 +1,1492 @@
+# 2D and Top-Down Inspiration Notes
+
+These are still extremely valuable even when the camera model is different, because many of the strongest upgrade, mutation, and fusion ideas live here.
+
+## Noita
+**Why it matters:** Essential reference for mutation-like spell assembly, modifier stacking, wand identity, and how weird systems can create authored chaos.
+**3D / spatial value:** medium — 2D, but extremely valuable for systemic spell/modifier interactions
+**Source coverage:** strong
+**Number-up vs synergy read:** One of the strongest synergy-first references in the whole list. More about rule rewrites and spell assembly than simple stat gains.
+
+### Primary source pages / lists
+- **Perks** (page) — https://noita.fandom.com/wiki/Perks — 145 extracted references
+- **Spells** (page) — https://noita.fandom.com/wiki/Spells — 325 extracted references
+- **Items** (category) — https://noita.fandom.com/wiki/Category:Items — 33 extracted references
+
+### Quick design takeaways for Mecha Paper Ratchet
+- strongest warning against reducing upgrades to just bigger numbers
+- great reference for how modifiers can rewrite behavior rather than merely amplify it
+- especially valuable for mutation philosophy and second-order combo design
+
+### Accessible reference snapshot
+
+#### Perks
+- _145 entries extracted; showing the first 120 here and preserving the rest in `04 Raw Reference Catalogs.md`._
+- Gold
+- ???
+- Achievement Pillars
+- Acid
+- Acid Ball
+- Acid Trail
+- Ambrosia
+- Barrier
+- Berserkium
+- Black Hole
+- Blood
+- Blood (Spell)
+- Bomb
+- Boomerang
+- Bouncing Burst
+- Chainsaw
+- Chaos Die
+- Chaotic Polymorphine
+- Circle of Vigour
+- Cloudscape
+- Concentrated Mana
+- Critical Hit +
+- Critical Hits
+- Critical Plus
+- Damage Plus
+- Damage Types
+- Dark Cave
+- Death Cross
+- Delayed Spellcast
+- Divide By
+- Dormant Crystal
+- Earthquake
+- Electric Charge
+- Emerald Tablet
+- Energy Orb
+- Energy Shield
+- Essences
+- Extra Max Health
+- Extra modifiers
+- Factions
+- Flummoxium
+- Freezing Vapour
+- Freezing Vapours
+- Giant Tree
+- Giga Holy Bomb
+- Glitter Bomb
+- Greed-Cursed Liquid
+- Greed-cursed Crystal
+- Ground To Sand
+- Guide To Infinite Lifetime Spells
+- Haulikkohiisi
+- Healing Bolt
+- Health Pickups
+- Hearty Porridge
+- Holy Bomb
+- Holy Mountain
+- Homing
+- Hurtta
+- Invisiblium
+- Items
+- Jättikonna
+- Jättimato
+- Kalmamato
+- Kammolukki
+- Kolmisilmän silmä
+- Large Extra Max Health
+- Lava
+- Light Shot
+- Lightning Bolt
+- Linear Arc
+- Lukki
+- Lukki Lair
+- Luminous Drill
+- Magic Missile
+- Magic arrow
+- Mana To Damage
+- Materials
+- Mato
+- Matosade
+- Matter Eater
+- Meat
+- Meteorisade
+- Mimic
+- Moon
+- More Love
+- Nuke
+- Nullifying Altar
+- Omega Black Hole
+- Overgrown Cavern
+- Parallel Worlds
+- Parantajahiisi
+- Pea Soup
+- Piercing Shot
+- Pikkutulikärpänen
+- Poison
+- Poison (Material)
+- Polymorphine
+- Potions
+- Propane Tank
+- Remove Bounce
+- Repelling Cape
+- Rotta
+- Satiation
+- Sauvan Ydin
+- Sea of Water
+- Skoude
+- Slime
+- Slime Mist
+- Slithering Path
+- Smoke
+- Snipuhiisi
+- Spark Bolt
+- Speed Up
+- Spell Refresher
+- Spell Tiers
+- Spells To Black Holes
+- Spells To Death Crosses
+- Spells To Magic Missiles
+- Spells To Nukes
+- Steam
+
+#### Spells
+- _325 entries extracted; showing the first 120 here and preserving the rest in `04 Raw Reference Catalogs.md`._
+- BULLET???
+- Acid Ball
+- Arrow
+- Black Hole
+- Bomb
+- Bomb Cart
+- Bouncing Burst
+- Bubble Spark
+- Burst of Air
+- Chain Bolt
+- Chainsaw
+- Cursed Sphere
+- Death Cross
+- Plasma Beam Cross
+- Digging Blast
+- Digging Bolt
+- Dormant Crystal
+- Dropper Bolt
+- TNT
+- Earthquake
+- Eldritch Portal
+- Energy Orb
+- Energy Sphere
+- Expanding Sphere
+- Fireball
+- Firebolt
+- Firebomb
+- Fireworks!
+- Flamethrower
+- Flock of Ducks
+- Freezing Gaze
+- Glitter Bomb
+- Glowing Lance
+- Glue Ball
+- Healing Bolt
+- Holy Bomb
+- Giga Holy Bomb
+- Iceball
+- Infestation
+- Intense Concentrated Light
+- Concentrated Light
+- Thunder Charge
+- Lightning Bolt
+- Ball Lightning
+- Luminous Drill
+- Magic Arrow
+- Magic Bolt
+- Magic Guard
+- Magic Missile
+- Meteor
+- Mist
+- Nuke
+- Path of Dark Flame
+- Pinpoint of Light
+- Plasma Beam
+- Plasma Cutter
+- Pollen
+- Prickly Spore Pod
+- Propane Tank
+- Random Projectile Spell
+- Chaos Magic
+- Summon Rock
+- Disc Projectile
+- Giga Disc Projectile
+- Summon Omega Sawblade
+- Slimeball
+- Spark Bolt
+- Spiral Shot
+- Spitter Bolt
+- Summon Deercoy
+- Summon Egg
+- Summon Explosive Box
+- Summon Hollow Egg
+- Summon Missile
+- Summon Rock Spirit
+- Tentacle
+- Teleport Bolt
+- Swapper
+- Return
+- Homebringer Teleport Bolt
+- Triplicate Bolt
+- Unstable Crystal
+- Worm Launcher
+- Barrier
+- Circle of Shielding
+- Circle of Buoyancy
+- Circle of Displacement
+- Circle of Fervour
+- Circle of Thunder
+- Circle of Stillness
+- Circle of Unstable Metamorphosis
+- Circle of Transmogrification
+- Circle of Vigour
+- Thundercloud
+- Acid Cloud
+- Blood Cloud
+- Oil Cloud
+- Rain Cloud
+- Destruction
+- Explosion
+- Explosion of Brimstone
+- Explosion of Poison
+- Explosion of Spirits
+- Explosion of Thunder
+- Magical Explosion
+- Explosive Detonator
+- Glittering Field
+- Matosade
+- Meteorisade
+- Delayed Spellcast
+- Projectile Transmutation Field
+- Projectile Gravity Field
+- Projectile Thunder Field
+- Random Static Projectile Spell
+- Omega Black Hole
+- Giga Black Hole
+- Summon Friendly Fly
+- Summon Swarm
+- Powder Vacuum Field
+- Liquid Vacuum Field
+
+#### Items
+- Items
+- Auringonsiemen
+- Broken Spell
+- Broken Wand
+- Chaos Die
+- Cruel Orb
+- Crystal Key
+- Egg
+- Emerald Tablet
+- Emerald Tablet of Thoth
+- Empty Potion
+- Greed Die
+- Kakkakikkare
+- Kammi
+- Kiuaskivi
+- Kuu
+- Kuulokivi
+- Paha Silmä
+- Powder Pouch
+- Refreshing Gourd
+- Runestones
+- Sampo
+- Sauvan Ydin
+- Secretorum Hermetis
+- Shiny Orb
+- Sädekivi
+- Tabula Smaragdina
+- Tannerkivi
+- Ukkoskivi
+- Vuoksikivi
+- Category:ZH translation/Items
+- Category:Potions
+- Category:Treasure
+
+## Vampire Survivors
+**Why it matters:** Very strong reference for how simple upgrades can lead to readable evolution recipes and build-shaping combinations without requiring complex player input.
+**3D / spatial value:** low-to-medium, but very useful for weapon evolution and passive/item pairing patterns
+**Source coverage:** strong
+**Number-up vs synergy read:** Contains many raw stat-ups, but the standout identity comes from evolutions, unions, and passive/weapon pairing recipes.
+
+### Primary source pages / lists
+- **Characters** (category) — https://vampire-survivors.fandom.com/wiki/Category:Characters — 169 extracted references
+- **Weapons** (category) — https://vampire-survivors.fandom.com/wiki/Category:Weapons — 259 extracted references
+- **Passive items** (category) — https://vampire-survivors.fandom.com/wiki/Category:Passive_items — 35 extracted references
+- **Mechanics** (category) — https://vampire-survivors.fandom.com/wiki/Category:Mechanics — 29 extracted references
+
+### Quick design takeaways for Mecha Paper Ratchet
+- evolutions and unions are a clean benchmark for visible recipe design
+- simple ingredients can still produce very different build fantasies
+- good reference for explicit fusion-style upgrade discovery
+
+### Accessible reference snapshot
+
+#### Characters
+- _169 entries extracted; showing the first 120 here and preserving the rest in `04 Raw Reference Catalogs.md`._
+- Characters
+- Alamaric Sniper
+- Albus
+- Alucard
+- Antonio Belpaese
+- Arca Ladonna
+- Ariana
+- Avatar Infernas
+- Axe Armor
+- Babi-Onna
+- Barlowe
+- Bat Robbert
+- Bats Bats Bats
+- Bianca Ramba
+- Big Trouser
+- Bill Rizer
+- Blackmore
+- Blue Crescent Moon Cornell
+- Boon Marrabbio
+- Brad Fang
+- Brauner
+- Browny
+- Carmilla
+- Carrie Fernandez
+- Cave Troll
+- Celia Fortner
+- Chaos
+- Charlotte & Jonathan
+- Charlotte Aulin
+- Christine Davain
+- Christopher Belmont
+- Colonel Bahamut
+- Concetta Caciotta
+- Cornell
+- Cosmo Pavone
+- Count Olrox
+- Crewmate Dino
+- Dario Bossi
+- Death (character)
+- Divano Thelma
+- Dmitrii Blinov
+- Dommario
+- Eleanor Uziron
+- Elizabeth Bartley
+- Engineer Gino
+- Eric Lecarde
+- Exdash Exiviiq
+- Familiar
+- Ferryman
+- Fleaman
+- Frozenshade
+- Gains Boros
+- Galamoth
+- Gav'Et-Oni
+- Genevieve Gruyère
+- Gennaro Belpaese
+- Ghost Lino
+- Giovanna Grana
+- Graham Jones
+- Grant Danasty
+- Guardian Pina
+- Gyoruntin
+- Gyorunton
+- Hammer
+- Hector
+- Henry
+- Horse
+- Iguana Gallo Valletto
+- Imelda Belpaese
+- Impostor Rina
+- Innocent Devil
+- Isaac
+- Je-Ne-Viv
+- Joachim Armster
+- John Morris
+- Jonathan & Charlotte
+- Jonathan Morris
+- Julia Laforeze
+- Julius Belmont
+- Juste Belmont
+- Keitha Muort
+- Keremet
+- Krochi Freetto
+- Lama Ladonna
+- Lance Bean
+- Leda
+- Leon Belmont
+- Lisa Tepes
+- Loretta & Stella Lecarde
+- Loretta Lecarde
+- Lucia Zero
+- Luminaire Foscari
+- Malphas
+- Maria Renard
+- Maruto Cuts
+- Mask of the Red Death
+- Master Librarian
+- Maxim Kischine
+- McCoy-Oni
+- Megalo Death
+- Megalo Dracula
+- Megalo Elizabeth Bartley
+- Megalo Impostor Rina
+- Megalo Menya Moonspell
+- Megalo Olrox
+- Megalo Syuuto Moonspell
+- Menya Moonspell
+- Miang Moonspell
+- Mina Hakuba
+- Minnah Mannarah
+- MissingN▯
+- Mortaccio
+- Nathan Graves
+- Newt Plissken
+- O'Sole Meeo
+- Pasqualina Belpaese
+- Peppino
+- Poe Ratcho
+- Poppea Pecorina
+- Porta Ladonna
+
+#### Weapons
+- _259 entries extracted; showing the first 120 here and preserving the rest in `04 Raw Reference Catalogs.md`._
+- Weapons
+- 108 Bocce
+- Acerbatus
+- Alchemy Whip
+- Alucard Shield
+- Alucard Spear
+- Alucard Swords
+- Alucart Sworb
+- Anima of Mortaccio
+- Arma Dio
+- Arrow of Goth
+- Ashes of Muspell
+- Atmo-Torpedo
+- Aura Blast
+- Aurablaster Tip
+- Axe
+- Belnades' Spellbook
+- BFC2000-AD
+- Bi-Bracelet
+- Big Fuzzy Fist
+- Blade Crossbow
+- Blood Astronomia (XXI)
+- Bloody Tear
+- Bone
+- Boo Roo Boolle
+- Bracelet
+- Bwaka Knife
+- C-U-Laser
+- Candybox
+- Carréllo
+- Celestial Dusting
+- Celestial Voulge
+- Centralis Custos
+- Cherry Bomb
+- Clear Asteroids
+- Clear Debris
+- Clock Lancet
+- Clock Tower
+- Coat of Arms
+- Cocytus
+- Confodere
+- Crimson Shroud
+- Crissaegrim Tip
+- Cross
+- Cross Crasher Tip
+- Crossed Wires
+- Curved Knife
+- Dairy Cart
+- Dark Iron Shield
+- Dark Rift
+- Daybreaker Tip
+- Death Spiral
+- Dextro Custos
+- Discus
+- Diver Mines
+- Divine Bloodline (IX)
+- Dominus Agony
+- Dominus Anger
+- Dominus Hatred
+- Dragon Water Whip
+- Ebony Diabologue
+- Ebony Wings
+- Echo Night
+- Eight The Sparrow
+- Emergency Meeting (weapon)
+- Endo Gears
+- Epi Head
+- Eskizzibur
+- Evolution
+- Familiar Forge
+- Festive Winds
+- Fire Wand
+- Fire-L3GS
+- Firearm
+- Flames of Misspell
+- Flash Arrow
+- Four Seasons
+- Fulgur
+- Fuwalafuwaloo
+- Gale Force
+- Game Killer (0)
+- Garlic
+- Gatti Amari
+- Gemini (I)
+- Gemma Torpor
+- Glass Fandango
+- Globus
+- Godai Shuffle
+- Gorgeous Moon
+- Grand Cross
+- Greatest Jubilee
+- Guardian's Targe
+- Gungnir-Souris
+- Hand Grenade
+- Hats
+- Heart of Fire (XIX)
+- Heaven Sword
+- Hellfire
+- Hex
+- Holy Wand
+- Homing Miss
+- Hydro Storm
+- Hydrostormer Tip
+- Ice Fang
+- Icebrand
+- Impostongue
+- Infinite Corridor
+- Insatiable
+- Iron Ball
+- Iron Shield
+- J'Odore
+- Javelin
+- Jet Black Whip
+- Jewel Gun
+- Just Vent
+- Keremet Bubbles
+- Keremet Morbus
+- King Bible
+- Knife
+- La Borra
+
+#### Passive items
+- Passive items
+- Academy Badge
+- Armor (item)
+- Attractorb
+- Bracer
+- Candelabrador
+- Clover
+- Crown
+- Duplicator
+- Empty Tome
+- Evolution
+- Gold Ring
+- Hollow Heart
+- Karoma's Mana
+- Metaglio Left
+- Metaglio Right
+- Mini Crewmate
+- Mini Engineer
+- Mini Ghost
+- Mini Guardian
+- Mini Horse
+- Mini Impostor
+- Mini Scientist
+- Mini Shapeshifter
+- Parm Aegis
+- Pummarola
+- Silver Ring
+- Skull O'Maniac
+- Spellbinder
+- Spinach
+- Stone Mask
+- Tirajisú
+- Torrona's Box
+- Weapon Power-Up
+- Wings
+
+#### Mechanics
+- Achievements
+- Arcanas
+- Coffin
+- Dairy Cart
+- Eggman
+- Enemies
+- Evolution
+- Freeze
+- Gold Coin (currency)
+- Healer
+- Health Drain
+- Invulnerable
+- Knockback
+- Level up
+- Light source
+- Limit Break
+- Merchant
+- Overhealing
+- PowerUps
+- Random Events
+- Retaliate
+- Secret
+- Spell
+- Stained Glass
+- Take Us Away
+- The Reaper
+- Weapons/Combos
+- Weapons/Overview Stats
+- Category:Wave events
+
+## The Binding of Isaac: Rebirth
+**Why it matters:** Important for understanding how massive item pools can still produce memorable synergy spikes, transformations, and build identity words players share.
+**3D / spatial value:** low in camera terms, high in item-combo terms
+**Source coverage:** strong
+**Number-up vs synergy read:** Huge mixture. Plenty of pure stat pushes, but its real design legend comes from item transformation, tear behavior changes, and unexpected interactions.
+
+### Primary source pages / lists
+- **Characters** (category) — https://bindingofisaacrebirth.fandom.com/wiki/Category:Characters — 37 extracted references
+- **Passive collectibles** (category) — https://bindingofisaacrebirth.fandom.com/wiki/Category:Passive_collectibles — 551 extracted references
+- **Mechanics** (category) — https://bindingofisaacrebirth.fandom.com/wiki/Category:Mechanics — 72 extracted references
+
+### Quick design takeaways for Mecha Paper Ratchet
+- huge example of item soup, but also a warning about readability if too many rules collide without enough signaling
+- still extremely valuable for transformation and behavior-changing item identity
+
+### Accessible reference snapshot
+
+#### Characters
+- Co-op
+- ??? (Character)
+- Apollyon
+- Azazel
+- Bethany
+- Cain
+- Eden
+- Eve
+- Isaac
+- Jacob & Esau
+- Judas
+- Keeper
+- Lazarus
+- Lilith
+- Magdalene
+- NPCs
+- Samson
+- Tainted ???
+- Tainted Apollyon
+- Tainted Azazel
+- Tainted Bethany
+- Tainted Cain
+- Tainted Characters
+- Tainted Eden
+- Tainted Eve
+- Tainted Forgotten
+- Tainted Isaac
+- Tainted Jacob
+- Tainted Judas
+- Tainted Keeper
+- Tainted Lazarus
+- Tainted Lilith
+- Tainted Lost
+- Tainted Magdalene
+- Tainted Samson
+- The Forgotten
+- The Lost
+
+#### Passive collectibles
+- _551 entries extracted; showing the first 120 here and preserving the rest in `04 Raw Reference Catalogs.md`._
+- 120 Volt
+- 1up!
+- 20/20
+- 2Spooky
+- 3 Dollar Bill
+- 4.5 Volt
+- 7 Seals
+- 8 Inch Nails
+- 9 Volt
+- ???'s Only Friend
+- A Bar of Soap
+- A Dollar
+- A Lump of Coal
+- A Pound of Flesh
+- A Quarter
+- A Snack
+- Abaddon
+- Abel
+- Acid Baby
+- Act of Contrition
+- Adrenaline
+- Akeldama
+- Almond Milk
+- Analog Stick
+- Anemic
+- Angelic Prism
+- Angry Fly
+- Ankh
+- Anti-Gravity
+- Apple!
+- Aquarius
+- Aries
+- Astral Projection
+- Athame
+- Azazel's Rage
+- Backstabber
+- Ball of Bandages
+- Ball of Tar
+- Battery Pack
+- BBF
+- Belly Button
+- Belly Jelly
+- Best Bud
+- Betrayal
+- BFFS!
+- Big Chubby
+- Big Fan
+- Binge Eater
+- Binky
+- Bird Cage
+- Bird's Eye
+- Birthright
+- Black Candle
+- Black Lotus
+- Black Powder
+- Blanket
+- Blood Bag
+- Blood Bombs
+- Blood Clot
+- Blood Oath
+- Blood of the Martyr
+- Blood Puppy
+- Bloodshot Eye
+- Bloody Gust
+- Bloody Lust
+- Blue Cap
+- Blue Map
+- Bob's Brain
+- Bob's Curse
+- Bobby-Bomb
+- BOGO Bombs
+- Boiled Baby
+- Bomb Bag
+- Bomber Boy
+- Bone Spurs
+- Book of Virtues
+- Boom!
+- Booster Pack (Item)
+- Bot Fly
+- Box
+- Bozo
+- Breakfast
+- Brimstone
+- Brimstone Bombs
+- Brittle Bones
+- Broken Modem
+- Broken Shovel
+- Broken Watch
+- Brother Bobby
+- Bucket of Lard
+- Buddy in a Box
+- Bum Friend
+- Bumbo
+- Bursting Sack
+- Butt Bombs
+- C Section
+- Caffeine Pill
+- Cain's Other Eye
+- Cambion Conception
+- Camo Undies
+- Cancer
+- Candy Heart
+- Capricorn
+- Car Battery
+- Card Reading
+- Cat-o-nine-tails
+- Celtic Cross
+- Censer
+- Ceremonial Robes
+- Champion Belt
+- Chaos
+- Charged Baby
+- Charm of the Vampire
+- Chemical Peel
+- Chocolate Milk
+- Circle of Protection
+- Compound Fracture
+- Cone Head
+- Consolation Prize
+- Contagion
+
+#### Mechanics
+- Achievement Tips
+- Attributes
+- Blindfolded
+- Boss Rush
+- Characters
+- Co-op
+- Completion Marks
+- Corrupt Data
+- Creep
+- Curses
+- Daily Challenges
+- Damage
+- Damage Scaling
+- Death
+- Donation Machine
+- Eden Generation
+- Effects
+- Endings
+- Flight
+- GB Bug
+- Greed Donation Machine
+- Greed Mode
+- Hard mode
+- Health
+- Hidden Attributes
+- HUD
+- Item Pool
+- Item Quality
+- Item Tags
+- Level Generation
+- Luck
+- Mini-Boss Room
+- Pills
+- Player Effects
+- Range
+- RERUN
+- Room Clear Awards
+- Savefile Images
+- Seeds
+- Shot Speed
+- Special Item
+- Speed
+- Stage HP
+- Status Effects
+- Tear Effects
+- Tears
+- Temporary Buffs
+- Title Sequence
+- Victory Lap
+- Wisps.xml
+- Category:Item Tags
+- Category:Store Upgrades
+- Category:Transformations
+- File:Curse of Darkness.png
+- File:Curse of the Blind.png
+- File:Curse of the Cursed.png
+- File:Curse of the Giant.png
+- File:Curse of the Labyrinth.png
+- File:Curse of the Lost.png
+- File:Curse of the Maze.png
+- File:Curse of the Unknown.png
+- File:Ending 1 Eden.png
+- File:Ending 11 It Lives.png
+- File:Ending 2 Rubber Cement 2.png
+- File:Ending 2 Rubber Cement.png
+- File:Ending 3 Transcendence 2.png
+- File:Ending 3 Transcendence.png
+- File:Ending 4 Wire Coat Hanger 2.png
+- File:Ending 4 Wire Coat Hanger.png
+- File:Ending 5 Mom.png
+- File:Ending 6 Ipecac.png
+- File:Ending 9 Dr. Fetus 2.png
+
+## Enter the Gungeon
+**Why it matters:** Great reference for wild weapon identity, passive/gun overlap, and explicit synergy naming as a player-facing discovery layer.
+**3D / spatial value:** low in camera terms, high in weapon/item/synergy readability
+**Source coverage:** strong
+**Number-up vs synergy read:** Has plenty of direct passives, but synergies and weapon personality are what make it especially useful here.
+
+### Primary source pages / lists
+- **Gungeoneers** (category) — https://enterthegungeon.fandom.com/wiki/Category:Gungeoneers — 20 extracted references
+- **Items** (page) — https://enterthegungeon.fandom.com/wiki/Items — 297 extracted references
+- **Guns** (category) — https://enterthegungeon.fandom.com/wiki/Category:Guns — 369 extracted references
+- **Synergies** (page) — https://enterthegungeon.fandom.com/wiki/Synergies — 453 extracted references
+
+### Quick design takeaways for Mecha Paper Ratchet
+- weapon personality and named synergies are the biggest takeaway
+- good reference for letting gun identity stay loud even when passives stack up
+
+### Accessible reference snapshot
+
+#### Gungeoneers
+- Cormorant
+- Eevee
+- Gungeoneers
+- Gungeoneers/fr
+- Lamey
+- Resourceful Rat
+- Resourceful Rat/fr
+- The Bullet
+- The Convict
+- The Cosmonaut
+- The Cultist
+- The Gunslinger
+- The Gunslinger/fr
+- The Hunter
+- The Hunter/fr
+- The Marine
+- The Ninja
+- The Paradox
+- The Pilot
+- The Robot
+
+#### Items
+- _297 entries extracted; showing the first 120 here and preserving the rest in `04 Raw Reference Catalogs.md`._
+- Quality
+- Pickups
+- +1 Bullets
+- Aged Bell
+- Air Strike
+- Alpha Bullet
+- Ammo Belt
+- Ammo Synthesizer
+- Amulet of the Pit Lord
+- Ancient Hero's Bandana
+- Angry Bullets
+- Antibody
+- Arcane Gunpowder
+- Armor Synthesizer
+- Armor of Thorns
+- Baby Good Mimic
+- Baby Good Shelleton
+- Backpack
+- Backup Gun
+- Badge
+- Ballistic Boots
+- Ballot
+- Battery Bullets
+- Battle Standard
+- Big Boy
+- Bionic Leg
+- Blank Bullets
+- Blank Companion's Ring
+- Blast Helmet
+- Blood Brooch
+- Bloodied Scarf
+- Bloody 9mm
+- Bloody Eye
+- Blue Guon Stone
+- Bomb
+- Book of Chest Anatomy
+- Boomerang
+- Bosses
+- Bottle
+- Bouncy Bullets
+- Box
+- Bracket Key
+- Brick of Cash
+- Briefcase of Cash
+- Broccoli
+- Bug Boots
+- Bullet Idol
+- Bullet That Can Kill The Past
+- Bullet Time
+- Bumbullets
+- Busted Television
+- C4
+- Cartographer's Ring
+- Cat Bullet King Throne
+- Chaff Grenade
+- Chance Bullets
+- Chaos Ammolet
+- Chaos Bullets
+- Charm Horn
+- Charming Rounds
+- Chest Teleporter
+- Chests
+- Chicken Flute
+- Cigarettes
+- Clear Guon Stone
+- Clone
+- Cloranthy Ring
+- Clown Mask
+- Cluster Mine
+- Cog of Battle
+- Coin Crown
+- Coolant Leak
+- Coolness
+- Copper Ammolet
+- Crisis Stone
+- Crutch
+- Curse
+- Cursed Bullets
+- Daruma
+- Decoy
+- Devolver Rounds
+- Disarming Personality
+- Dodge Roll (Move)
+- Dog
+- Double Vision
+- Drill
+- Drum Clip
+- Duct Tape
+- Easy Reload Bullets
+- Elder Blank
+- Enraging Photo
+- Escape Rope
+- Explosive Decoy
+- Explosive Rounds
+- Eyepatch
+- Fat Bullets
+- Flak Bullets
+- Fortune's Favor
+- Friendship Cookie
+- Frost Ammolet
+- Frost Bullets
+- Full Metal Jacket
+- Galactic Medal of Valor
+- Gas Mask
+- Ghost Bullets
+- Gilded Bullets
+- Glass Guon Stone
+- Gold Ammolet
+- Gold Junk
+- Grappling Hook
+- Green Guon Stone
+- Gun Soul
+- Gunboots
+- Gundromeda Strain
+- Gungeon Blueprint
+- Gungeon Pepper
+- Gunknight Armor
+- Gunknight Gauntlet
+- Gunknight Greaves
+- Gunknight Helmet
+
+#### Guns
+- _369 entries extracted; showing the first 120 here and preserving the rest in `04 Raw Reference Catalogs.md`._
+- 38 Special
+- 38 Special/zh
+- 3rd Party Controller
+- A.W.P.
+- Abyssal Tentacle
+- AC-15
+- AK-47
+- AKEY-47
+- AKEY-47/fr
+- Alien Engine
+- Alien Sidearm
+- Anvillain
+- Especial de Piloto
+- Rogue Special/es
+- AU Gun
+- AU Gun/zh
+- Bait Launcher
+- Balloon Gun
+- Banana
+- Barrel
+- Bee Hive
+- Betrayer's Shield
+- Betrayer's Shield/fr
+- Big Iron
+- Big Iron/zh
+- Big Shotgun
+- Black Hole Gun
+- Black Revolver
+- Blasphemy
+- Blasphemy/fr
+- Blasphemy/zh
+- Blooper
+- Blunderbuss
+- Blunderbuss/zh
+- Bow
+- Boxing Glove
+- Brick Breaker
+- BSG
+- Bubble Blaster
+- Budget Revolver
+- Budget Revolver/fr
+- Budget Revolver/zh
+- Bullet
+- Bullet Bore
+- Bullet/zh
+- Bundle of Wands
+- Buzzkill
+- Cactus
+- Camera
+- Casey
+- Casey/fr
+- Casey/zh
+- Cat Claw
+- Chamber Gun
+- Charge Shot
+- Charmed Bow
+- Chromesteel Assault Rifle
+- Cobalt Hammer
+- Cold 45
+- Cold 45/zh
+- Colt 1851
+- Colt 1851/zh
+- Com4nd0
+- Combined Rifle
+- Composite Gun
+- Composite Gun/zh
+- Compressed Air Tank
+- Corsair
+- Crescent Crossbow
+- Crestfaller
+- Crossbow
+- Crossbow/fr
+- Crown of Guns
+- Dark Marker
+- Dart Gun
+- Dart Gun/fr
+- Dart Gun/zh
+- Deck4rd
+- Demon Head
+- Derringer
+- Derringer/zh
+- Devolver
+- Directional Pad
+- Disintegrator
+- Dragunfire
+- Dueling Laser
+- Dueling Laser/fr
+- Dueling Pistol
+- Dueling Pistol/zh
+- Dungeon Eagle
+- Dungeon Eagle/zh
+- El Tigre
+- Elephant Gun
+- Elephant Gun/zh
+- Elimentaler
+- Elimentaler/fr
+- Encircler
+- Evolver
+- Excaliber
+- Eye of the Beholster
+- Face Melter
+- Fightsabre
+- Finished Gun
+- Flame Hand
+- Flare Gun
+- Flare Gun/zh
+- Flash Ray
+- Fossilized Gun
+- Freeze Ray
+- Frost Giant
+- Gamma Ray
+- Gilded Hydra
+- Gilded Hydra/zh
+- Glacier
+- Glass Cannon
+- Grasschopper
+- Grenade Launcher
+- Grey Mauser
+- Grey Mauser/fr
+- Grey Mauser/zh
+
+#### Synergies
+- _453 entries extracted; showing the first 120 here and preserving the rest in `04 Raw Reference Catalogs.md`._
+- Scope
+- A.W.P.
+- Sniper Rifle
+- The Membrane
+- Bouncy Bullets
+- Alpha Bullet
+- Hot Lead
+- Frost Bullets
+- Irradiated Lead
+- AKEY-47
+- Shelleton Key
+- Roll Bomb
+- IBomb Companion App
+- Air Strike
+- Explosive Rounds
+- AK-47
+- Orange
+- Crown of Guns
+- Crescent Crossbow
+- Thunderclap
+- Shock Rounds
+- Colt 1851
+- Table Tech Sight
+- Escape Rope
+- Heart Holster
+- Hip Holster
+- Face Melter
+- Drum Clip
+- Melted Rock
+- Gilded Bullets
+- Platinum Bullets
+- Heavy Bullets
+- Ruby Bracelet
+- Zorgun
+- Alien Engine
+- RPG
+- Flak Bullets
+- Dark Marker
+- Antibody
+- Bee Hive
+- Box
+- Shock Rifle
+- M16
+- Heart of Ice
+- Frost Ammolet
+- Snowballets
+- AC-15
+- Void Core Assault Rifle
+- Armor of Thorns
+- Ring of Fire Resistance
+- Copper Ammolet
+- The Scrambler
+- Pig
+- Screecher
+- Dueling Laser
+- Charge Shot
+- Jetpack
+- R2G2
+- Orbital Bullets
+- Bomb
+- Ice Bomb
+- Honeycomb
+- Jar of Bees
+- Bumbullets
+- Com4nd0
+- Eye of the Beholster
+- M1911
+- Machine Pistol
+- Trank Gun
+- Void Marshal
+- Gamma Ray
+- Betrayer's Shield
+- Lies
+- BSG
+- Big Shotgun
+- Baby Good Shelleton
+- Shellegun
+- Corsair
+- Serious Cannon
+- Grappling Hook
+- Kruller Glaive
+- Blood Brooch
+- Ring of Chest Vampirism
+- Deck4rd
+- Origuni
+- Bullet
+- Shell
+- Elder Blank
+- Blank Companion's Ring
+- Blast Helmet
+- Cursed Bullets
+- Silver Bullets
+- Brick Breaker
+- Mustache
+- Blue Guon Stone
+- +1 Bullets
+- Bullet Time
+- Amulet of the Pit Lord
+- Blunderbuss
+- Macho Brace
+- Lil' Bomber
+- Siren
+- Trident
+- Bionic Leg
+- Wind Up Gun
+- Seven-Leaf Clover
+- Bug Boots
+- Gungeon Ant
+- The Kiln
+- Luxin Cannon
+- Chicken Flute
+- Bubble Blaster
+- Gungine
+- Ammo Belt
+- Excaliber
+- Cactus
+- Broccoli
+- Camera
+- Chaff Grenade
+- Unity
+
+## Dead Cells
+**Why it matters:** Useful for color-routed builds, mutation design, skill/melee/ranged layering, and how movement/combat aggression can be reinforced without huge inventory soup.
+**3D / spatial value:** medium — 2D, but very good for movement/combat mutation thinking
+**Source coverage:** strong
+**Number-up vs synergy read:** A strong hybrid. It definitely has stat scaling, but mutations, affixes, and weapon/skill routing create many build identities beyond simple numbers.
+
+### Primary source pages / lists
+- **Mutations** (category) — https://deadcells.fandom.com/wiki/Category:Mutations — 61 extracted references
+- **Melee weapons** (category) — https://deadcells.fandom.com/wiki/Category:Melee_weapons — 65 extracted references
+- **Ranged weapons** (category) — https://deadcells.fandom.com/wiki/Category:Ranged_weapons — 39 extracted references
+- **Skills** (category) — https://deadcells.fandom.com/wiki/Category:Skills — 4 extracted references
+
+### Quick design takeaways for Mecha Paper Ratchet
+- mutations are one of the clearest references here for build-routing without giant inventories
+- also useful for movement/combat aggression rewards and archetype-color routing
+
+### Accessible reference snapshot
+
+#### Mutations
+- Acceptance
+- Acrobatipack
+- Adrenaline
+- Alienation
+- Ammo
+- Armadillopack
+- Barbed Tips
+- Berserker
+- Blind Faith
+- Combo
+- Counterattack
+- Crow's Foot
+- Dead Inside
+- Disengagement
+- Efficiency
+- Emergency Triage
+- Extended Healing
+- Fireworks Technician
+- Frenzy
+- Frostbite
+- Gastronomy
+- Get Rich Quick
+- Gold Plating
+- Heart of Ice
+- Hunter's Instinct
+- Initiative
+- Instinct of the Master of Arms
+- Kill Rhythm
+- Killer Instinct
+- Lacerator
+- Masochist
+- Melee (Mutation)
+- Midas' Blood
+- Necromancy
+- Networking
+- No Mercy
+- Open Wounds
+- Parting Gift
+- Point Blank
+- Porcupack
+- Predator
+- Ranger's Gear
+- Recovery
+- Ripper
+- Sadism
+- Scheme
+- Soldier's Resistance
+- Spite
+- Support
+- Tactical Retreat
+- Tainted Flask
+- Tranquility
+- Velocity
+- Vengeance
+- What Doesn't Kill Me
+- Wish
+- Ygdar Orus Li Ox
+- Category:Brutality mutations
+- Category:Colorless mutations
+- Category:Survival mutations
+- Category:Tactics mutations
+
+#### Melee weapons
+- Abyssal Trident
+- Alucard's Sword
+- Assassin's Dagger
+- Balanced Blade
+- Baseball Bat
+- Bible
+- Bladed Tonfas
+- Blood Sword
+- Bone
+- Broadsword
+- Crowbar
+- Cursed Sword
+- Dagger of Profit
+- Ferryman's Lantern
+- Flashing Fans
+- Flawless
+- Flint
+- Frantic Sword
+- Giantkiller
+- Gold Digger
+- Hand Hook
+- Hard Light Sword
+- Hattori's Katana
+- Hayabusa Boots
+- Hayabusa Gauntlets
+- Impaler (Weapon)
+- Iron Staff
+- King Scepter
+- Machete and Pistol
+- Maw of the Deep
+- Meat Skewer
+- Morning Star
+- Nutcracker
+- Oiled Sword
+- Oven Axe
+- Panchaku
+- Pure Nail
+- Queen's Rapier
+- Rapier
+- Rhythm n' Bouzouki
+- Rusty Sword
+- Sadist's Stiletto
+- Scythe Claw
+- Seismic Strike
+- Shovel
+- Shrapnel Axes
+- Snake Fangs
+- Spartan Sandals
+- Spiked Boots
+- Spite Sword
+- Starfury
+- Swift Sword
+- Symmetrical Lance
+- Tentacle
+- Tombstone
+- Toothpick
+- Torch
+- Twin Daggers
+- Valmont's Whip
+- Vampire Killer
+- Vorpan
+- War Spear
+- Whip Sword
+- Wrecking Ball
+- Wrenching Whip
+
+#### Ranged weapons
+- Alchemic Carbine
+- Barrel Launcher
+- Beginner's Bow
+- Blowgun
+- Boomerang
+- Bow and Endless Quiver
+- Cross
+- Electric Whip
+- Explosive Crossbow
+- Fire Blast
+- Firebrands
+- Frost Blast
+- Gilded Yumi
+- Heavy Crossbow
+- Hemorrhage
+- Hokuto's Bow
+- Ice Bow
+- Ice Crossbow
+- Ice Shards
+- Infantry Bow
+- Killing Deck
+- Laser Glaive
+- Lightning Bolt
+- Magic Bow
+- Magic Missiles
+- Marksman's Bow
+- Money Shooter
+- Multiple-nocks Bow
+- Nerves of Steel
+- Peril Glyphs
+- Pyrotechnics
+- Quick Bow
+- Repeater Crossbow
+- Sonic Carbine
+- The Boy's Axe
+- Throwable Objects
+- Throwing Axe
+- Throwing Knife
+- War Javelin
+
+#### Skills
+- Deployable Traps
+- Gear
+- Grenades
+- Powers

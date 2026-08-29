@@ -1,0 +1,52 @@
+[gd_scene load_steps=7 format=3]
+
+[ext_resource type="Script" path="res://scripts/player_projectile.gd" id="1_proj"]
+
+[sub_resource type="SphereShape3D" id="1_sphere"]
+radius = 0.22
+
+[sub_resource type="SphereMesh" id="2_mesh"]
+radius = 0.16
+height = 0.32
+
+[sub_resource type="StandardMaterial3D" id="3_mat"]
+albedo_color = Color(1, 0.94902, 0.701961, 1)
+emission_enabled = true
+emission = Color(1, 0.878431, 0.439216, 1)
+emission_energy_multiplier = 0.9
+shading_mode = 0
+
+[sub_resource type="ParticleProcessMaterial" id="4_trail_process"]
+emission_shape = 1
+emission_sphere_radius = 0.03
+direction = Vector3(0, 0, -1)
+spread = 10.0
+initial_velocity_min = 0.18
+initial_velocity_max = 0.45
+gravity = Vector3(0, 0, 0)
+scale_min = 0.12
+scale_max = 0.24
+color = Color(1, 0.909804, 0.509804, 1)
+
+[sub_resource type="QuadMesh" id="5_trail_mesh"]
+size = Vector2(0.09, 0.09)
+
+[node name="PaperPopperProjectile" type="Area3D"]
+script = ExtResource("1_proj")
+
+[node name="CollisionShape3D" type="CollisionShape3D" parent="."]
+shape = SubResource("1_sphere")
+
+[node name="MeshInstance3D" type="MeshInstance3D" parent="."]
+mesh = SubResource("2_mesh")
+material_override = SubResource("3_mat")
+
+[node name="Trail" type="GPUParticles3D" parent="."]
+amount = 10
+lifetime = 0.14
+explosiveness = 0.0
+randomness = 0.18
+process_material = SubResource("4_trail_process")
+draw_pass_1 = SubResource("5_trail_mesh")
+trail_enabled = true
+fixed_fps = 60

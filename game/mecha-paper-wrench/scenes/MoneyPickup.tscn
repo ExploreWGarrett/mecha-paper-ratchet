@@ -1,0 +1,21 @@
+[gd_scene load_steps=5 format=3]
+
+[ext_resource type="Script" path="res://scripts/money_pickup.gd" id="1_money"]
+
+[sub_resource type="BoxMesh" id="1_mesh"]
+size = Vector3(0.34, 0.16, 0.34)
+
+[sub_resource type="StandardMaterial3D" id="2_material"]
+albedo_color = Color(1, 0.9, 0.35, 1)
+emission_enabled = true
+emission = Color(0.9, 0.76, 0.22, 1)
+emission_energy_multiplier = 0.52
+roughness = 0.18
+metallic = 0.2
+
+[node name="MoneyPickup" type="Node3D"]
+script = ExtResource("1_money")
+
+[node name="MeshInstance3D" type="MeshInstance3D" parent="."]
+mesh = SubResource("1_mesh")
+surface_material_override/0 = SubResource("2_material")

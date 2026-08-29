@@ -1,0 +1,4424 @@
+# Raw Reference Catalogs
+
+This file keeps the longer extracted lists together so the other inspiration docs stay readable.
+
+
+## Mega Bonk
+- Home/source root: https://megabonk.fandom.com
+
+### Characters
+- URL: https://megabonk.fandom.com/wiki/Characters
+- Extracted entries: 20
+- Amog
+- Athena
+- Bandit
+- Birdo
+- Bush
+- CL4NK
+- Calcium
+- Dicehead
+- Fox
+- Megachad
+- Monke
+- Ninja
+- Noelle
+- Ogre
+- Robinette
+- Sir Chadwell
+- Sir Oofie
+- Spaceman
+- Tony McZoom
+- Vlad
+
+### Weapons
+- URL: https://megabonk.fandom.com/wiki/Weapons
+- Extracted entries: 2
+- Characters
+- Quests
+
+## Above Land: Rhapsody
+- Accessible source snapshot in-session came from YouTube results rather than a rich public wiki/API source.
+
+### Public-facing references seen in-session
+- **Above Land: Rhapsody – Official Reveal Trailer**
+- **Above Land: Rhapsody is a Co-Op Roguelite That Mixes Swordplay with... Slam Dunks?**
+
+### Extractable design-language clues
+- action-RPG roguelite framing
+- co-op chaos
+- magical pop-up-book framing
+- bizarre customizable arsenal language
+- cited weapon examples included electric guitars, yo-yos, and folding chairs
+
+### Coverage note
+- No reliable machine-readable character / item / upgrade list was extracted in-session.
+- For now this title is best treated as a **combat-language / weapon-identity / tone** reference, not a catalog-backed systems reference.
+
+## Risk of Rain 2
+- Home/source root: https://riskofrain2.fandom.com
+
+### Survivors
+- URL: https://riskofrain2.fandom.com/wiki/Category:Survivors
+- Extracted entries: 20
+- Acrid
+- Artificer
+- Bandit
+- Captain
+- CHEF
+- Commando
+- Drifter
+- Engineer
+- False Son
+- Heretic
+- Huntress
+- Loader
+- Mercenary
+- MUL-T
+- Operator
+- Railgunner
+- REX
+- Seeker
+- Survivors
+- Void Fiend
+
+### Items
+- URL: https://riskofrain2.fandom.com/wiki/Category:Items
+- Extracted entries: 201
+- 57 Leaf Clover
+- Aegis
+- Alien Head
+- Ancestral Incubator
+- Armor-Piercing Rounds
+- Artifact Key
+- AtG Missile Mk. 1
+- Backup Magazine
+- Bandolier
+- Beads of Fealty
+- Ben's Raincoat
+- Benthic Bloom
+- Berzerker's Pauldron
+- Bison Steak
+- Bolstering Lantern
+- BoostDamage
+- BoostHp
+- Bottled Chaos
+- Box of Dynamite
+- Brainstalks
+- Breaching Fin
+- Brilliant Behemoth
+- Brittle Crown
+- Bundle of Fireworks
+- Bustling Fungus
+- Cautious Slug
+- Ceremonial Dagger
+- Chance Doll
+- Charged Perforator
+- Chronic Expansion
+- Chronobauble
+- Collector's Compulsion
+- Corpsebloom
+- Crowbar
+- Death Mark
+- Defense Nucleus
+- Defensive Microbots
+- Defiant Gouge
+- Delicate Watch
+- Dio's Best Friend
+- DrizzlePlayerHelper
+- Eclipse Lite
+- Egocentrism
+- Electric Boomerang
+- Elusive Antlers
+- Empathy Cores
+- Encrusted Key
+- Encrypted Cerebellum
+- Energy Drink
+- Essence of Heresy
+- Eulogy Zero
+- Exposed Cerebellum
+- Faraday Spur
+- Faulty Conductor
+- Focus Crystal
+- Focused Convergence
+- Frost Relic
+- Fuel Cell
+- Functional Coupler
+- Gasoline
+- Genesis Loop
+- Gesture of the Drowned
+- Ghor's Tome
+- Ghost
+- Growth Nectar
+- H3AD-5T v2
+- Halcyon Seed
+- Happiest Mask
+- Hardlight Afterburner
+- Harvester's Scythe
+- HealthDecay
+- Hiker's Boots
+- Hooks of Heresy
+- Hopoo Feather
+- Hunter's Harpoon
+- Ignition Tank
+- Infusion
+- Interstellar Desk Plant
+- Irradiant Pearl
+- Item Scrap, Green
+- Item Scrap, Red
+- Item Scrap, White
+- Item Scrap, Yellow
+- Items
+- Kinetic Dampener
+- Kjaro's Band
+- Laser Scope
+- Leeching Seed
+- Lens-Maker's Glasses
+- Lepton Daisy
+- Light Flux Pauldron
+- Little Disciple
+- Longstanding Solitude
+- Lost Seer's Lenses
+- Luminous Shot
+- Lysate Cell
+- Medkit
+- Mercurial Rachis
+- Mired Urn
+- Mocha
+- Molten Perforator
+- Monster Tooth
+- N'kuhana's Opinion
+- Needletick
+- Networked Suffering
+- Neutronium Weight
+- Newly Hatched Zoea
+- Noxious Thorn
+- Oddly-shaped Opal
+- Old Guillotine
+- Old War Stealthkit
+- Orphaned Core
+- Paul's Goat Hoof
+- Pearl
+- Personal Shield Generator
+- Planula
+- Plasma Shrimp
+- Pluripotent Larva
+- Pocket I.C.B.M.
+- Polylute
+- Power Elixir
+- Prayer Beads
+- Predatory Instincts
+- Prison Matrix
+- Purity
+- Queen's Gland
+- Razorwire
+- Red Whip
+- Regenerating Scrap
+- Rejuvenation Rack
+- Repulsion Armor Plate
+- Resonance Disc
+- Roll of Pennies
+- Rose Buckler
+- Runald's Band
+- Runic Lens
+- Rusted Key
+- Safer Spaces
+- Sale Star
+- Sentient Meat Hook
+- Sentry Key
+- Shaped Glass
+- Shattering Justice
+- Shatterspleen
+- Shipping Request Form
+- Shuriken
+- Singularity Band
+- Soldier's Syringe
+- Sonorous Whispers
+- Soulbound Catalyst
+- Spare Drone Parts
+- Spinel Tonic
+- Squid Polyp
+- Sticky Bomb
+- Stone Flux Pauldron
+- Strides of Heresy
+- Stun Grenade
+- Substandard Duplicator
+- Symbiotic Scorpion
+- Tentabauble
+- Titanic Knurl
+- Topaz Brooch
+- Tougher Times
+- Transcendence
+- Tri-Tip Dagger
+- Ukulele
+- Unreleased Items
+- Unstable Tesla Coil
+- Unstable Transmitter
+- Visions of Heresy
+- Voidsent Flame
+- Wake of Vultures
+- War Bonds
+- War Horn
+- Warbanner
+- Warped Echo
+- Wax Quail
+- Weeping Fungus
+- Will-o'-the-wisp
+- Category:AIBlacklist Items
+- Category:BrotherBlacklist Items
+- Category:CannotDuplicate Items
+- Category:CannotSteal Items
+- Category:Cleansable Items
+- Category:Damage Items
+- Category:DevotionBlacklist Items
+- Category:Equipment
+- Category:EquipmentRelated Items
+- Category:HalcyoniteShrine Items
+- Category:Healing Items
+- Category:HoldoutZoneRelated Items
+- Category:InteractableRelated Items
+- Category:LowHealth Items
+- Category:OnKillEffect Items
+- Category:OnStageBeginEffect Items
+- Category:RebirthBlacklist Items
+- Category:Scrap Items
+- Category:SprintRelated Items
+- Category:TurretBlacklist Items
+- Category:Utility Items
+- Category:WorldUnique Items
+
+### Mechanics
+- URL: https://riskofrain2.fandom.com/wiki/Category:Mechanics
+- Extracted entries: 24
+- Armor
+- Artifact Hints
+- Artifacts
+- Damage
+- Death Messages
+- Difficulty
+- Directors
+- Enemy AI
+- Family Events
+- Glossary of player terms
+- Gold
+- Health
+- Item Stacking
+- Keyword
+- Level
+- Lunar Coins
+- Mechanics
+- Movement Speed
+- Proc Coefficient
+- Status Effects
+- Void Fog
+- Void Implosion
+- Void Seed
+- Category:Internal
+
+## Gunfire Reborn
+- Home/source root: https://gunfirereborn.fandom.com
+
+### Heroes
+- URL: https://gunfirereborn.fandom.com/wiki/Category:Heroes
+- Extracted entries: 15
+- Ao Bai
+- Cang Jue
+- Crown Prince
+- Hero
+- Lei Luo
+- Li
+- Lyn
+- Momo
+- Nona
+- Qian Sui
+- Qing Yan
+- Tao
+- Xing Zhe
+- Yoyo
+- Zi Xiao
+
+### Skills
+- URL: https://gunfirereborn.fandom.com/wiki/Skills
+- Extracted entries: 120
+- Dash
+- Crown Prince
+- Energy Orb
+- Smoke Grenade
+- Ao Bai
+- Dual-Wield
+- Explosive Grenade
+- Qing Yan
+- Leap
+- Cleave
+- Lei Luo
+- Fatal Current
+- Chain Lightning
+- Tao
+- Swords Out
+- Fatal Bloom
+- Qian Sui
+- Tidal Aspis
+- Striking Punch
+- Xing Zhe
+- Soul Strike
+- Essence Chain
+- Li
+- Spiritual Flame
+- Blazing Meteor
+- Zi Xiao
+- Falling Star
+- Astroforecast
+- Nona
+- Iron Wing
+- Hardwood Missile
+- Lyn
+- Frost Burial
+- Frozen Grenade
+- Momo
+- Ink Form
+- Drawing Come True
+- Launcher
+- Talents
+- Terminal Lucidity
+- Health
+- Magic Watch
+- Terrific Crossfire
+- Ancient Timer
+- Gold Medal
+- Shields
+- Armor
+- Energy Storage
+- Secondary Skills
+- Double Exhilaration
+- No Retreat
+- Extra Surprise
+- Untold Effort
+- Capacity Overdraft
+- Brutal Gloves
+- Energy Sandals
+- Skill Booster
+- Sucker Punch
+- Enduring Caster
+- Vindictive Nature
+- Surprise Bonus
+- Rational Consumption
+- Dual-edge
+- Deadly Curse
+- Spirit Bible
+- Rich's Privileges
+- Cang Jue
+- Yoyo
+- Movement Speed
+- Copper
+- Rifle
+- Submachine Gun
+- Pistol
+- Shotgun
+- Sniper
+- Injector
+- Melee Weapon
+- Fire
+- Lightning
+- Corrosion
+- Explosion
+- Vault
+- Anxi Desert
+- Ascensions
+- Avatars and Frames
+- Challenge Events
+- Chests
+- Craftsman
+- Critical Hit
+- Daily Challenges
+- Damage
+- Damage Modifiers
+- Difficulty
+- Duo Fjord
+- Elemental Effects
+- Emoticons
+- Enemies
+- Enemy Enhancements
+- Game Modes
+- Gunfire Reborn
+- Hazards
+- Hero
+- Hyperborean Jokul
+- Inscriptions
+- Language Packs
+- Longling Tomb
+- Lucky Shot
+- Magazine
+- Multiplayer
+- Occult Scrolls
+- Peddler
+- Projectile
+- Rate of Fire
+- Reincarnation
+- Reload Time
+- Seasonal Events
+- Status Effects
+- Unlockables
+- Weapon Stats
+- Weapons
+
+### Occult Scrolls
+- URL: https://gunfirereborn.fandom.com/wiki/Occult_Scrolls
+- Extracted entries: 275
+- Vault
+- Evil-Banishing Talisman
+- On the House
+- Greedy Choice
+- Enhancement Lover
+- Effective Split
+- Curiosity Box
+- Break the Ice
+- Lifesaver
+- 3rd Time Unlucky
+- Fortune Challenge
+- Triple Comeback
+- Glazed Sight
+- Rational Consumption
+- Scroll Enhancer
+- Masterful Craftsmanship
+- Blessing in Disguise
+- Take It All
+- Brutal Gloves
+- Talents
+- Perfect Sixth
+- Improved Clip
+- Preemptive Strike
+- Bluff
+- Resolute
+- Elemental Relic
+- Elemental Bestowment
+- Double Exhilaration
+- Terminal Lucidity
+- Elemental Cube
+- Devil's Covenant
+- Ammo Belt
+- Snow Boots
+- Magic Magazine
+- Genesis
+- Rock-Hard Determination
+- Persistent
+- Abnormal Speed
+- Mid-Air Strike
+- Advanced Joggers
+- Bullet Bank
+- Gourmet
+- Casual Gunsmanship
+- Elemental Torment
+- Brief Respite
+- Berserk Soul
+- Ammo Recoverer
+- Evil-Devouring Sword
+- Abundant Vitality
+- Against the Flow
+- Fast-Loader
+- Skateboarder
+- Fire Enthusiast
+- Corrosion Enthusiast
+- Lightning Enthusiast
+- No Retreat
+- Thunder Screen
+- Long Shot
+- Decay Driver
+- Mutual Respect
+- Generosity
+- Field Support
+- Hidden Treasure
+- Wait For Good
+- Extra Surprise
+- Energy Sandals
+- Skill Booster
+- Lone Ranger
+- Bullet Light
+- Tactical Reload
+- Resilient Life
+- Good and Evil
+- Sucker Punch
+- Enduring Caster
+- Vindictive Nature
+- Normal Ammo
+- Large Ammo
+- Special Ammo
+- Connected Mind
+- Piercing Bullet
+- Undivided Attention
+- Battle Nature
+- Reasonable Exclusive
+- Empty Bonus
+- Priced HP
+- Efficient Firepower
+- Stable Supply
+- Foundry Blessing
+- Paranormality
+- Flesh and Bones
+- Bloody Ammo
+- Sanguine Relic
+- Giant Slayer
+- Ninja's Discipline
+- Silver Medal
+- Elemental Convergence
+- Elemental Weave
+- Fountain of Life
+- Flowing Wind
+- Deft Hands
+- Arms Dealer
+- Magic Watch
+- Magnetic Coil
+- Final Judgment
+- Thorny Carapace
+- Coin Shot
+- Propulsion Device
+- Copper Miner
+- Veteran
+- Elite Assassin
+- Reinforced Eggshell
+- Strategic Advantage
+- Shrine of Recovery
+- Ostrich Rider
+- Blazing Hoop
+- Realm of Corrosion
+- Flame Shard
+- Lightning Shard
+- Corrosion Shard
+- Airbag
+- Untold Effort
+- Safety Measures
+- Windrider
+- Capacity Overdraft
+- Dormant Bullet
+- Thunder Step
+- Explosive Bullets
+- Fight for Immortality
+- Hidden Transaction
+- Terrific Crossfire
+- Surprise Bonus
+- Refresh Addict
+- Ancient Timer
+- Nirvana Force
+- Concurrent Cooldown
+- Overflowing Waters
+- Lucky Roulette
+- Intimidating Presence
+- Explosive Magazine
+- Divine Energy
+- Energy Transfer
+- Reascend
+- Curse Away
+- Speedy Traveler
+- Rampage Time
+- Big Eater
+- Deflection Shield
+- Elemental Power
+- Hawkeye Sight
+- Mystic Mirror
+- Dual-edge
+- Deadly Counter
+- Gold Medal
+- Spirit Feline
+- Deadly Curse
+- Penetration Bullet
+- Unfettered Will
+- Lightless Shield
+- Phantom Skin
+- Flowing Time
+- Advanced Depot
+- Speedy Pursuit
+- Merciless Strike
+- Heavy Shield
+- Backup Shield
+- Merciless Combo
+- Fish or Bear Paw
+- Energy Storage
+- Stone Skin
+- Premium Membership
+- Spirit Bible
+- Elemental Magazine
+- Reasonable Luck
+- Rich's Privileges
+- Overwhelming Shield
+- Extravagant Consumption
+- Iron Circuit
+- Convergent Paths
+- Pain for Gain
+- It Takes Two
+- No Discounts
+- Inferior Magazine
+- Elemental Curse
+- Cateye Sight
+- Old Belt
+- Old Battle Boots
+- Cursed Magazine
+- Broken Bullet
+- Fragile Body
+- Arms Trafficker
+- Clumsy Throw
+- Moldy Bun
+- Broken Gun
+- Sabotaged Magazine
+- Cowardly Bully
+- Heavy Burden
+- Cautious Shot
+- Quack Doctor
+- Stubborn Stance
+- Shared Adversity
+- Burden of Solitude
+- Struggle for Independence
+- Mistaken Delivery
+- Leaky Pocket
+- Shackled Steps
+- Coins of Life
+- Crown Prince
+- Ao Bai
+- Qing Yan
+- Lei Luo
+- Tao
+- Qian Sui
+- Xing Zhe
+- Li
+- Nona
+- Zi Xiao
+- Lyn
+- Momo
+- Cang Jue
+- Yoyo
+- Health
+- Shields
+- Armor
+- Movement Speed
+- Copper
+- Rifle
+- Submachine Gun
+- Pistol
+- Shotgun
+- Sniper
+- Launcher
+- Injector
+- Melee Weapon
+- Fire
+- Lightning
+- Corrosion
+- Explosion
+- Anxi Desert
+- Ascensions
+- Avatars and Frames
+- Challenge Events
+- Chests
+- Craftsman
+- Critical Hit
+- Daily Challenges
+- Damage
+- Damage Modifiers
+- Difficulty
+- Duo Fjord
+- Elemental Effects
+- Emoticons
+- Enemies
+- Enemy
+- Enemy Enhancements
+- Game Modes
+- Gunfire Reborn
+- Hazards
+- Hyperborean Jokul
+- Inscriptions
+- Language Packs
+- Longling Tomb
+- Lucky Shot
+- Magazine
+- Multiplayer
+- Peddler
+- Projectile
+- Rate of Fire
+- Reincarnation
+- Reload Time
+- Seasonal Events
+- Skills
+- Status Effects
+- Unlockables
+- Weapon Stats
+- Weapons
+
+### Weapons
+- URL: https://gunfirereborn.fandom.com/wiki/Weapons
+- Extracted entries: 143
+- Big Hippo
+- Cavalry
+- Crimson Firescale
+- Dragonchaser
+- Hexagon
+- Lightning Blast
+- Rainbow Arch
+- Revealer
+- Tracker
+- Angelic Aura
+- Concealed Ammo
+- Demonlore
+- Dual Fang
+- Scalpel
+- Star Devourer
+- Wolf Gaze
+- Arc Light
+- Aura of Venom
+- Cloud Weaver
+- Foundry
+- Glimmering
+- Icy Spear
+- Prism
+- Scorching Rounds
+- Star Ring
+- Sunder
+- Talisman
+- Argus
+- Hell
+- Illusion
+- Porcupine
+- Pupil
+- Wheel Saw
+- Wild Hunt
+- Bloody Drill
+- Brick
+- Double Caliber
+- Golden Bow
+- Goshawk
+- Lighting Ksana
+- Piercing Flame
+- Sting
+- Strike Wing
+- Woodpecker
+- Bone Dragon
+- Deafening Mortar
+- Dragon Breath
+- Frenzied Shark
+- Justice
+- Shrieker
+- Tempest
+- Thunder Storm
+- Tiger Cannon
+- Clawspray
+- Fire Dragon
+- Jet Octopus
+- Laser Gloves
+- Radioactive Gauntlet
+- Rainbow
+- Thunderclap Gloves
+- Fire Tower
+- Flowing Light
+- Poisonous Ghost
+- Storm Chaser
+- Crane Chant
+- Phoenix Roar
+- Starfly
+- Vault
+- Magazine
+- Weapons
+- Fire
+- Lightning
+- Corrosion
+- Explosion
+- Talents
+- Crown Prince
+- Ao Bai
+- Qing Yan
+- Lei Luo
+- Tao
+- Qian Sui
+- Xing Zhe
+- Li
+- Nona
+- Zi Xiao
+- Lyn
+- Momo
+- Cang Jue
+- Yoyo
+- Health
+- Shields
+- Armor
+- Movement Speed
+- Copper
+- Rifle
+- Submachine Gun
+- Pistol
+- Shotgun
+- Sniper
+- Launcher
+- Injector
+- Melee Weapon
+- Anxi Desert
+- Ascensions
+- Avatars and Frames
+- Challenge Events
+- Chests
+- Craftsman
+- Crit
+- Critical
+- Critical Hit
+- Daily Challenges
+- Damage
+- Damage Modifiers
+- Difficulty
+- Duo Fjord
+- Elemental Effect
+- Elemental Effects
+- Emoticons
+- Enemies
+- Enemy Enhancements
+- Game Modes
+- Gunfire Reborn
+- Hazards
+- Hyperborean Jokul
+- Inscriptions
+- Language Packs
+- Longling Tomb
+- Lucky Shot
+- Multiplayer
+- Occult Scrolls
+- Peddler
+- Projectile
+- Rate of Fire
+- Rate of fire
+- Reincarnation
+- Reload Time
+- Seasonal Events
+- Skills
+- Status Effects
+- Unlockables
+- Viper Sight
+- Weapon Stats
+
+## Hades
+- Home/source root: https://hades.fandom.com
+
+### Characters
+- URL: https://hades.fandom.com/wiki/Category:Characters
+- Extracted entries: 97
+- Minor Characters
+- Achilles
+- Aetos
+- Alecto
+- Aphrodite
+- Apollo
+- Arachne
+- Ares
+- Artemis
+- Asterius
+- Athena
+- Bone Hydra
+- Bouldy
+- Cerberus
+- Chaos
+- Characters
+- Characters/Hades II
+- Charon
+- Charybdis
+- Chellen
+- Chronos
+- Circe
+- Demeter
+- Dionysus
+- Dora
+- Dusa
+- Echo
+- Eris
+- Eurydice
+- Fates
+- Frinos
+- Gale
+- Hades
+- Head Chef
+- Hecate
+- Hecuba
+- Hephaestus
+- Hera
+- Heracles
+- Hermes
+- Hestia
+- House Contractor
+- Hypnos
+- Icarus
+- Jetty
+- User:Lungblossom/Sandbox
+- Medea
+- Megaera
+- Melinoë
+- Moros
+- Narcissus
+- Narrator
+- Nemesis
+- Nyx
+- Odysseus
+- Orpheus
+- User:Owl Editor
+- Patroclus
+- Persephone
+- Polyphemus
+- Poseidon
+- Prometheus
+- Raki
+- Resource Director
+- Roxy
+- Scylla
+- Scylla and the Sirens
+- Selene
+- Shades
+- Sisyphus
+- Skelly
+- Spirit Mixer
+- Supportive Shade
+- Talos
+- Thanatos
+- Theseus
+- Tisiphone
+- Toula
+- Typhon
+- Wretched Broker
+- Zagreus
+- Zeus
+- Category:Aspect Bearers
+- Category:Children Of Nyx
+- Category:Chthonic Deities
+- Category:Demigods
+- Category:Enemies
+- Category:Familiars
+- Category:Females
+- Category:Gods
+- Category:Groups
+- Category:Males
+- Category:Nymphs
+- Category:Olympian Gods
+- Category:River Denizens
+- Category:Romances
+- Category:Titans
+
+### Boons
+- URL: https://hades.fandom.com/wiki/Boons
+- Extracted entries: 35
+- Charon's Obol
+- Health
+- Gemstones
+- Darkness
+- Aphrodite
+- Ares
+- Artemis
+- Athena
+- Boons/Hades II
+- Bouldy
+- Bouldy/Boons
+- Chaos
+- Chaos Gate
+- Characters
+- Charon
+- Demeter
+- Dionysus
+- Duo Boons
+- Eurydice
+- Gameplay Mechanics
+- Hermes
+- House of Hades
+- Infernal Gate
+- Keepsake
+- Legendary Boons
+- Nectar
+- Patch 037
+- Pom of Power
+- Poseidon
+- Sisyphus
+- Status Curse
+- Trial of the Gods
+- Well of Charon
+- Zagreus
+- Zeus
+
+### Infernal Arms
+- URL: https://hades.fandom.com/wiki/Infernal_Arms
+- Extracted entries: 61
+- Stygian Blade
+- Eternal Spear
+- Chthonic Key
+- Shield of Chaos
+- Heart-Seeking Bow
+- Twin Fists
+- Adamant Rail
+- Demeter
+- Hades
+- Hera
+- Hestia
+- Poseidon
+- Zeus
+- Titan Blood
+- Achilles
+- Artemis
+- Aspect of Guan Yu
+- Asterius
+- Chaos
+- Fated List of Minor Prophecies
+- Nyx
+- Theseus
+- Artifacts
+- Ambrosia
+- Anvil of Fates
+- Bloodstones
+- Centaur Heart
+- Charon's Obol
+- Chtonic Key
+- Daedalus Hammer
+- Darkness
+- Diamond
+- Gemstones
+- Loyalty Card
+- Nectar
+- Pom of Power
+- Red Onion
+- Companions
+- Companion Battie
+- Companion Fidi
+- Companion Mort
+- Companion Rib
+- Companion Shady
+- Companion Antos
+- Infernal Arms
+- Fishing
+- Athena
+- Chiron
+- Chronos
+- Codex
+- Eris
+- Fates
+- Hades II
+- Hypnos
+- Keepsakes
+- Lucifer
+- Nemesis
+- Nocturnal Arms
+- Talos
+- Thanatos
+- Zagreus
+
+### Keepsakes
+- URL: https://hades.fandom.com/wiki/Keepsakes
+- Extracted entries: 77
+- Health
+- Charon's Obol
+- Achilles
+- Adamant Rail
+- Aphrodite
+- Ares
+- Artemis
+- Athena
+- Cerberus
+- Chambers and Encounters
+- Chaos
+- Charon
+- Demeter
+- Dionysus
+- Duo Boons
+- Dusa
+- Elysium
+- Eurydice
+- Greater Recall
+- Hades
+- Hermes
+- Hypnos
+- Infernal Trove
+- Legendary Boons
+- Megaera
+- Nyx
+- Orpheus
+- Patroclus
+- Persephone
+- Pom Blossom
+- Poseidon
+- Sisyphus
+- Skelly
+- Status effects
+- Temple of Styx
+- Thanatos
+- Well of Charon
+- Wringer
+- Zagreus
+- Zeus
+- Gemstones
+- Artifacts
+- Ambrosia
+- Anvil of Fates
+- Bloodstones
+- Centaur Heart
+- Chtonic Key
+- Daedalus Hammer
+- Darkness
+- Diamond
+- Loyalty Card
+- Nectar
+- Pom of Power
+- Red Onion
+- Titan Blood
+- Companions
+- Companion Battie
+- Companion Fidi
+- Companion Mort
+- Companion Rib
+- Companion Shady
+- Companion Antos
+- Infernal Arms
+- Stygian Blade
+- Eternal Spear
+- Heart-Seeking Bow
+- Shield of Chaos
+- Twin Fists
+- Fishing
+- Characters
+- Chronos
+- Chthonic Key
+- House Contractor
+- House of Hades
+- Keepsakes/Hades II
+- Mirror of Night
+- Sigil of the Dead
+
+### Daedalus Hammer
+- URL: https://hades.fandom.com/wiki/Daedalus_Hammer
+- Extracted entries: 134
+- Stygian Blade
+- Eternal Spear
+- Heart-Seeking Bow
+- Shield of Chaos
+- Twin Fists
+- Adamant Rail
+- Witch's Staff
+- Sister Blades
+- Moonstone Axe
+- Umbral Flames
+- Argent Skull
+- Black Coat
+- Artifacts
+- Ambrosia
+- Anvil of Fates
+- Bloodstones
+- Centaur Heart
+- Charon's Obol
+- Chtonic Key
+- Daedalus Hammer
+- Darkness
+- Diamond
+- Gemstones
+- Loyalty Card
+- Nectar
+- Pom of Power
+- Red Onion
+- Titan Blood
+- Companions
+- Companion Battie
+- Companion Fidi
+- Companion Mort
+- Companion Rib
+- Companion Shady
+- Companion Antos
+- Infernal Arms
+- Fishing
+- Artifacts/Hades II
+- Gold Crowns
+- Keepsakes/Hades II
+- Soul Tonic
+- Selene/Gifts of the Moon
+- Reagents
+- Bones
+- Ashes
+- Psyche
+- Fate Fabric
+- Gemstones/Hades II
+- Silver
+- Limestone
+- Glassrock
+- Marble
+- Bronze
+- Iron
+- Adamant
+- Fangs
+- Serpent Scales
+- Flux
+- Cinder
+- Pearl
+- Tears
+- Zodiac Sand
+- Wool
+- Feather
+- Void Lens
+- Darkness/Hades II
+- Shadow
+- Moon Dust
+- Star Dust
+- Nightmare
+- Rubbish
+- Gigaros
+- Entropy
+- House Soot
+- Greeneries
+- Moly
+- Nightshade
+- Nightshade Seeds
+- Seeds
+- Lotus
+- Cattail
+- Cattail Seeds
+- Myrtle
+- Wheat
+- Wheat Seeds
+- Shaderot
+- Poppy
+- Poppy Seeds
+- Moss
+- Garlic
+- Garlic Cloves
+- Driftwood
+- Mandrake Root
+- Mandrake Seeds
+- Iris
+- Olive Branches
+- Olive
+- Plankton
+- Snake-Reed
+- Origin Seeds
+- Thalamus
+- Golden Apple
+- Indulgences
+- Nectar/Hades II
+- Bath Salts
+- Twin Lures
+- Ambrosia/Hades II
+- Witch's Delight
+- Obol Points
+- Tears, Vaporized
+- Ectoplasmic Draught
+- Dream Vapors
+- Shiny Stars
+- Kudos
+- Nocturnal Arms
+- Gathering Tools
+- Hand Gathering
+- Crescent Pick
+- Silver Spade
+- Tablet of Peace
+- Fishing/Hades II
+- Asphodel
+- Centaur Heart/Hades II
+- Charon
+- Chthonic Key
+- Daedalus
+- Elysium
+- Hades
+- Hades II
+- Keepsakes
+- Mystery Seeds
+- Red Onion/Hades II
+- Tartarus
+- Temple of Styx
+
+## Stack Gun Heroes
+- Home/source root: https://stackgunheroes.fandom.com
+
+### Known Weapon Mods
+- URL: https://stackgunheroes.fandom.com/wiki/Known_Weapon_Mods
+- Extracted entries: 0
+- _No accessible list extracted from this source._
+
+### Mod Mart
+- URL: https://stackgunheroes.fandom.com/wiki/Mod_Mart
+- Extracted entries: 1
+- EubiAct
+
+### Stack Gun
+- URL: https://stackgunheroes.fandom.com/wiki/Stack_Gun
+- Extracted entries: 1
+- Known Weapon Mods
+
+### Game Modes
+- URL: https://stackgunheroes.fandom.com/wiki/Game_Modes
+- Extracted entries: 1
+- Unstackd
+
+## Returnal
+- Home/source root: https://returnal.fandom.com
+
+### Weapons
+- URL: https://returnal.fandom.com/wiki/Category:Weapons
+- Extracted entries: 12
+- Atropian Blade
+- Coilspine Shredder
+- Dreadbound
+- Electropylon Driver
+- Hollowseeker
+- Modified Sidearm SD-M8
+- Pyroshell Caster
+- Rotgland Lobber
+- Spitmaw Blaster
+- Tachyomatic Carbine
+- Thermogenic Launcher
+- Weapons
+
+### Items
+- URL: https://returnal.fandom.com/wiki/Category:Items
+- Extracted entries: 6
+- Cthonos
+- Reclaimer
+- Category:Artifacts
+- Category:Consumables
+- Category:Malignant items
+- Category:Resources
+
+## Roboquest
+- Home/source root: https://roboquest.fandom.com
+
+### Items
+- URL: https://roboquest.fandom.com/wiki/Category:Items
+- Extracted entries: 0
+- _No accessible list extracted from this source._
+
+## Noita
+- Home/source root: https://noita.fandom.com
+
+### Perks
+- URL: https://noita.fandom.com/wiki/Perks
+- Extracted entries: 145
+- Gold
+- ???
+- Achievement Pillars
+- Acid
+- Acid Ball
+- Acid Trail
+- Ambrosia
+- Barrier
+- Berserkium
+- Black Hole
+- Blood
+- Blood (Spell)
+- Bomb
+- Boomerang
+- Bouncing Burst
+- Chainsaw
+- Chaos Die
+- Chaotic Polymorphine
+- Circle of Vigour
+- Cloudscape
+- Concentrated Mana
+- Critical Hit +
+- Critical Hits
+- Critical Plus
+- Damage Plus
+- Damage Types
+- Dark Cave
+- Death Cross
+- Delayed Spellcast
+- Divide By
+- Dormant Crystal
+- Earthquake
+- Electric Charge
+- Emerald Tablet
+- Energy Orb
+- Energy Shield
+- Essences
+- Extra Max Health
+- Extra modifiers
+- Factions
+- Flummoxium
+- Freezing Vapour
+- Freezing Vapours
+- Giant Tree
+- Giga Holy Bomb
+- Glitter Bomb
+- Greed-Cursed Liquid
+- Greed-cursed Crystal
+- Ground To Sand
+- Guide To Infinite Lifetime Spells
+- Haulikkohiisi
+- Healing Bolt
+- Health Pickups
+- Hearty Porridge
+- Holy Bomb
+- Holy Mountain
+- Homing
+- Hurtta
+- Invisiblium
+- Items
+- Jättikonna
+- Jättimato
+- Kalmamato
+- Kammolukki
+- Kolmisilmän silmä
+- Large Extra Max Health
+- Lava
+- Light Shot
+- Lightning Bolt
+- Linear Arc
+- Lukki
+- Lukki Lair
+- Luminous Drill
+- Magic Missile
+- Magic arrow
+- Mana To Damage
+- Materials
+- Mato
+- Matosade
+- Matter Eater
+- Meat
+- Meteorisade
+- Mimic
+- Moon
+- More Love
+- Nuke
+- Nullifying Altar
+- Omega Black Hole
+- Overgrown Cavern
+- Parallel Worlds
+- Parantajahiisi
+- Pea Soup
+- Piercing Shot
+- Pikkutulikärpänen
+- Poison
+- Poison (Material)
+- Polymorphine
+- Potions
+- Propane Tank
+- Remove Bounce
+- Repelling Cape
+- Rotta
+- Satiation
+- Sauvan Ydin
+- Sea of Water
+- Skoude
+- Slime
+- Slime Mist
+- Slithering Path
+- Smoke
+- Snipuhiisi
+- Spark Bolt
+- Speed Up
+- Spell Refresher
+- Spell Tiers
+- Spells To Black Holes
+- Spells To Death Crosses
+- Spells To Magic Missiles
+- Spells To Nukes
+- Steam
+- Stendari
+- Stevari
+- Summon Rock
+- Summon Taikasauva
+- Sädekivi
+- TNT
+- Tannerkivi
+- Teleportitis
+- Temple of the Art
+- The End of Everything
+- The Vault
+- Torch
+- Touch of
+- Toxic Gas
+- Toxic Sludge
+- Trick Blood Money
+- Turso
+- Underground Jungle
+- Unstable Crystal
+- Vaihdosmestari
+- Vomit
+- Wands
+- Worm Blood
+- Worm Launcher
+- Greedcursed Rock
+
+### Spells
+- URL: https://noita.fandom.com/wiki/Spells
+- Extracted entries: 325
+- BULLET???
+- Acid Ball
+- Arrow
+- Black Hole
+- Bomb
+- Bomb Cart
+- Bouncing Burst
+- Bubble Spark
+- Burst of Air
+- Chain Bolt
+- Chainsaw
+- Cursed Sphere
+- Death Cross
+- Plasma Beam Cross
+- Digging Blast
+- Digging Bolt
+- Dormant Crystal
+- Dropper Bolt
+- TNT
+- Earthquake
+- Eldritch Portal
+- Energy Orb
+- Energy Sphere
+- Expanding Sphere
+- Fireball
+- Firebolt
+- Firebomb
+- Fireworks!
+- Flamethrower
+- Flock of Ducks
+- Freezing Gaze
+- Glitter Bomb
+- Glowing Lance
+- Glue Ball
+- Healing Bolt
+- Holy Bomb
+- Giga Holy Bomb
+- Iceball
+- Infestation
+- Intense Concentrated Light
+- Concentrated Light
+- Thunder Charge
+- Lightning Bolt
+- Ball Lightning
+- Luminous Drill
+- Magic Arrow
+- Magic Bolt
+- Magic Guard
+- Magic Missile
+- Meteor
+- Mist
+- Nuke
+- Path of Dark Flame
+- Pinpoint of Light
+- Plasma Beam
+- Plasma Cutter
+- Pollen
+- Prickly Spore Pod
+- Propane Tank
+- Random Projectile Spell
+- Chaos Magic
+- Summon Rock
+- Disc Projectile
+- Giga Disc Projectile
+- Summon Omega Sawblade
+- Slimeball
+- Spark Bolt
+- Spiral Shot
+- Spitter Bolt
+- Summon Deercoy
+- Summon Egg
+- Summon Explosive Box
+- Summon Hollow Egg
+- Summon Missile
+- Summon Rock Spirit
+- Tentacle
+- Teleport Bolt
+- Swapper
+- Return
+- Homebringer Teleport Bolt
+- Triplicate Bolt
+- Unstable Crystal
+- Worm Launcher
+- Barrier
+- Circle of Shielding
+- Circle of Buoyancy
+- Circle of Displacement
+- Circle of Fervour
+- Circle of Thunder
+- Circle of Stillness
+- Circle of Unstable Metamorphosis
+- Circle of Transmogrification
+- Circle of Vigour
+- Thundercloud
+- Acid Cloud
+- Blood Cloud
+- Oil Cloud
+- Rain Cloud
+- Destruction
+- Explosion
+- Explosion of Brimstone
+- Explosion of Poison
+- Explosion of Spirits
+- Explosion of Thunder
+- Magical Explosion
+- Explosive Detonator
+- Glittering Field
+- Matosade
+- Meteorisade
+- Delayed Spellcast
+- Projectile Transmutation Field
+- Projectile Gravity Field
+- Projectile Thunder Field
+- Random Static Projectile Spell
+- Omega Black Hole
+- Giga Black Hole
+- Summon Friendly Fly
+- Summon Swarm
+- Powder Vacuum Field
+- Liquid Vacuum Field
+- Vacuum Field
+- Energy Shield
+- Summon Tiny Ghost
+- Torch
+- Electric Torch
+- All-Seeing Eye
+- Blood Magic
+- Long-Distance Cast
+- Teleporting Cast
+- Warp Cast
+- Spells To Acid
+- Spells To Black Holes
+- Spells To Death Crosses
+- Spells To Giga Sawblades
+- Spells To Magic Missiles
+- Spells To Nukes
+- Summon Taikasauva
+- Summon Platform
+- Summon Wall
+- Blood To Power
+- Gold To Power
+- Wand Refresh
+- Add Mana
+- Gunpowder Arc
+- Fire Arc
+- Poison Arc
+- Electric Arc
+- Octagonal Bolt Bundle
+- Downwards Bolt Bundle
+- Larpa Bounce
+- Explosive Bounce
+- Plasma Beam Bounce
+- Remove Bounce
+- Concentrated Light Bounce
+- Bubbly Bounce
+- Bounce
+- Chain Spell
+- Concentrated Explosion
+- Copy Trail
+- Critical on Burning
+- Critical Plus
+- Critical on Oiled Enemies
+- Critical On Bloody Enemies
+- Critical on Wet (Water) Enemies
+- Damage Field
+- Mana To Damage
+- Light Shot
+- Heavy Shot
+- Random Damage
+- Damage Plus
+- Bloodlust
+- Earthquake Shot
+- Freeze Charge
+- Electric Charge
+- Explosion On Drunk Enemies
+- Explosion On Slimy Enemies
+- Charm On Toxic Sludge
+- Fizzle
+- Glimmer
+- Heavy Spread
+- Knockback
+- Upwards Larpa
+- Larpa Explosion
+- Downwards Larpa
+- Chaos Larpa
+- Increase Lifetime
+- Nolla
+- Reduce Lifetime
+- Light
+- Necromancy
+- Fireball Orbit
+- Nuke Orbit
+- Plasma Beam Orbit
+- Sawblade Orbit
+- Orbit Larpa
+- Linear Arc
+- Horizontal Path
+- Gravity
+- Anti-Gravity
+- Fly Upwards
+- Fly Downwards
+- Slithering Path
+- Ping-Pong Path
+- Phasing Arc
+- Spiral Arc
+- Orbiting Arc
+- Chaotic Path
+- Rotate Towards Foes
+- Homing
+- Projectile Area Teleport
+- Short-range Homing
+- Boomerang
+- Auto-Aim
+- Aiming Arc
+- Accelerative Homing
+- Personal Fireball Thrower
+- Personal Gravity Field
+- Personal Lightning Caster
+- Personal Tentacler
+- Petrify
+- Piercing Shot
+- Plasma Beam Enhancer
+- Projectile Energy Shield
+- Quantum Split
+- Random Modifier Spell
+- Recoil
+- Recoil Damper
+- Reduce Recharge Time
+- Reduce Spread
+- Remove Explosion
+- Slow But Steady
+- Speed Up
+- Decelerating Shot
+- Accelerating Shot
+- Floating Arc
+- Firecrackers
+- Matter Eater
+- Explosive Projectile
+- Drilling Shot
+- Avoiding Arc
+- Two-Way Fireball Thrower
+- Tentacler
+- Lightning Thrower
+- Fireball Thrower
+- Plasma Beam Thrower
+- Essence To Power
+- Spells To Power
+- Water Trail
+- Gunpowder Trail
+- Fire Trail
+- Oil Trail
+- Poison Trail
+- Rainbow Trail
+- Acid Trail
+- Burning Trail
+- Water To Poison
+- Toxic Sludge To Acid
+- Liquid Detonation
+- Ground to Sand
+- Lava To Blood
+- Chaotic Transmutation
+- Blood To Acid
+- Weakening Curse
+- Venomous Curse
+- Chunk of Soil
+- Circle of Water
+- Circle of Oil
+- Circle of Acid
+- Circle of Fire
+- Acid (Spell)
+- Water (Spell)
+- Oil (Spell)
+- Cement (Spell)
+- Blood (Spell)
+- Sea of Acid
+- Sea of Alcohol
+- Sea of Flammable Gas
+- Sea of Lava
+- Sea of Oil
+- Sea of Water
+- Touch of
+- Tuple Spell
+- Tuple Scatter Spell
+- Formation
+- Add Expiration Trigger
+- Add Timer
+- Add Trigger
+- Divide By
+- Tau
+- Alpha
+- Sigma
+- Phi
+- Zeta
+- Gamma
+- Mu
+- Omega
+- Note spells
+- Random Spell
+- Copy Random Spell
+- Copy Three Random Spells
+- Requirement
+- Spell Duplication
+- Summon Portal
+- The End of Everything
+- Acid
+- Advanced Guide To Wand Mechanics
+- Critical Hits
+- Damage Types
+- Double Spell
+- Fire
+- Guide To Infinite Lifetime Spells
+- Guide To Wand Mechanics
+- Holy Mountain
+- Lava
+- Materials
+- Modding:Spell and Perk IDs
+- Perks
+- Rigid Body
+- Runestone
+- Spell Information Table
+- Spell Tiers
+- Timer
+- Treasure chests
+- Trigger
+- Wands
+
+### Items
+- URL: https://noita.fandom.com/wiki/Category:Items
+- Extracted entries: 33
+- Items
+- Auringonsiemen
+- Broken Spell
+- Broken Wand
+- Chaos Die
+- Cruel Orb
+- Crystal Key
+- Egg
+- Emerald Tablet
+- Emerald Tablet of Thoth
+- Empty Potion
+- Greed Die
+- Kakkakikkare
+- Kammi
+- Kiuaskivi
+- Kuu
+- Kuulokivi
+- Paha Silmä
+- Powder Pouch
+- Refreshing Gourd
+- Runestones
+- Sampo
+- Sauvan Ydin
+- Secretorum Hermetis
+- Shiny Orb
+- Sädekivi
+- Tabula Smaragdina
+- Tannerkivi
+- Ukkoskivi
+- Vuoksikivi
+- Category:ZH translation/Items
+- Category:Potions
+- Category:Treasure
+
+## Vampire Survivors
+- Home/source root: https://vampire-survivors.fandom.com
+
+### Characters
+- URL: https://vampire-survivors.fandom.com/wiki/Category:Characters
+- Extracted entries: 169
+- Characters
+- Alamaric Sniper
+- Albus
+- Alucard
+- Antonio Belpaese
+- Arca Ladonna
+- Ariana
+- Avatar Infernas
+- Axe Armor
+- Babi-Onna
+- Barlowe
+- Bat Robbert
+- Bats Bats Bats
+- Bianca Ramba
+- Big Trouser
+- Bill Rizer
+- Blackmore
+- Blue Crescent Moon Cornell
+- Boon Marrabbio
+- Brad Fang
+- Brauner
+- Browny
+- Carmilla
+- Carrie Fernandez
+- Cave Troll
+- Celia Fortner
+- Chaos
+- Charlotte & Jonathan
+- Charlotte Aulin
+- Christine Davain
+- Christopher Belmont
+- Colonel Bahamut
+- Concetta Caciotta
+- Cornell
+- Cosmo Pavone
+- Count Olrox
+- Crewmate Dino
+- Dario Bossi
+- Death (character)
+- Divano Thelma
+- Dmitrii Blinov
+- Dommario
+- Eleanor Uziron
+- Elizabeth Bartley
+- Engineer Gino
+- Eric Lecarde
+- Exdash Exiviiq
+- Familiar
+- Ferryman
+- Fleaman
+- Frozenshade
+- Gains Boros
+- Galamoth
+- Gav'Et-Oni
+- Genevieve Gruyère
+- Gennaro Belpaese
+- Ghost Lino
+- Giovanna Grana
+- Graham Jones
+- Grant Danasty
+- Guardian Pina
+- Gyoruntin
+- Gyorunton
+- Hammer
+- Hector
+- Henry
+- Horse
+- Iguana Gallo Valletto
+- Imelda Belpaese
+- Impostor Rina
+- Innocent Devil
+- Isaac
+- Je-Ne-Viv
+- Joachim Armster
+- John Morris
+- Jonathan & Charlotte
+- Jonathan Morris
+- Julia Laforeze
+- Julius Belmont
+- Juste Belmont
+- Keitha Muort
+- Keremet
+- Krochi Freetto
+- Lama Ladonna
+- Lance Bean
+- Leda
+- Leon Belmont
+- Lisa Tepes
+- Loretta & Stella Lecarde
+- Loretta Lecarde
+- Lucia Zero
+- Luminaire Foscari
+- Malphas
+- Maria Renard
+- Maruto Cuts
+- Mask of the Red Death
+- Master Librarian
+- Maxim Kischine
+- McCoy-Oni
+- Megalo Death
+- Megalo Dracula
+- Megalo Elizabeth Bartley
+- Megalo Impostor Rina
+- Megalo Menya Moonspell
+- Megalo Olrox
+- Megalo Syuuto Moonspell
+- Menya Moonspell
+- Miang Moonspell
+- Mina Hakuba
+- Minnah Mannarah
+- MissingN▯
+- Mortaccio
+- Nathan Graves
+- Newt Plissken
+- O'Sole Meeo
+- Pasqualina Belpaese
+- Peppino
+- Poe Ratcho
+- Poppea Pecorina
+- Porta Ladonna
+- Probotector
+- Pugnala Provola
+- Queen Sigma
+- Quincy Morris
+- Random
+- Reinhardt Schneider
+- Richter Belmont
+- Rinaldo Gandolfi
+- Rose De Infernas
+- Rottin'Ghoul
+- Saint Germain
+- Sammy
+- Santa Ladonna
+- Sara Trantoul
+- Scientist Mina
+- Scorej-Oni
+- Shaft
+- Shanoa
+- Shapeshifter Nino
+- She-Moon Eeta
+- Sheena Etranzi
+- Simon Belmont
+- Simondo Belmont
+- Sir Ambrojoe
+- Siugnas
+- Smith IV
+- Soleil Belmont
+- Soma Cruz
+- Sonia Belmont
+- Space Dude
+- Stanley
+- Stella & Loretta Lecarde
+- Stella Lecarde
+- Succubus (character)
+- Suor Clerici
+- Sypha Belnades
+- Syuuto Moonspell
+- Toastie
+- Trevor Belmont
+- Vincent Dorin
+- Vlad Tepes Dracula
+- Walter Bernhard
+- Wind
+- Yatta Cavallo
+- Yoko Belnades
+- Young Maria Renard
+- Zi'Assunta Belpaese
+- Category:DLC characters
+- Category:Secret characters
+
+### Weapons
+- URL: https://vampire-survivors.fandom.com/wiki/Category:Weapons
+- Extracted entries: 259
+- Weapons
+- 108 Bocce
+- Acerbatus
+- Alchemy Whip
+- Alucard Shield
+- Alucard Spear
+- Alucard Swords
+- Alucart Sworb
+- Anima of Mortaccio
+- Arma Dio
+- Arrow of Goth
+- Ashes of Muspell
+- Atmo-Torpedo
+- Aura Blast
+- Aurablaster Tip
+- Axe
+- Belnades' Spellbook
+- BFC2000-AD
+- Bi-Bracelet
+- Big Fuzzy Fist
+- Blade Crossbow
+- Blood Astronomia (XXI)
+- Bloody Tear
+- Bone
+- Boo Roo Boolle
+- Bracelet
+- Bwaka Knife
+- C-U-Laser
+- Candybox
+- Carréllo
+- Celestial Dusting
+- Celestial Voulge
+- Centralis Custos
+- Cherry Bomb
+- Clear Asteroids
+- Clear Debris
+- Clock Lancet
+- Clock Tower
+- Coat of Arms
+- Cocytus
+- Confodere
+- Crimson Shroud
+- Crissaegrim Tip
+- Cross
+- Cross Crasher Tip
+- Crossed Wires
+- Curved Knife
+- Dairy Cart
+- Dark Iron Shield
+- Dark Rift
+- Daybreaker Tip
+- Death Spiral
+- Dextro Custos
+- Discus
+- Diver Mines
+- Divine Bloodline (IX)
+- Dominus Agony
+- Dominus Anger
+- Dominus Hatred
+- Dragon Water Whip
+- Ebony Diabologue
+- Ebony Wings
+- Echo Night
+- Eight The Sparrow
+- Emergency Meeting (weapon)
+- Endo Gears
+- Epi Head
+- Eskizzibur
+- Evolution
+- Familiar Forge
+- Festive Winds
+- Fire Wand
+- Fire-L3GS
+- Firearm
+- Flames of Misspell
+- Flash Arrow
+- Four Seasons
+- Fulgur
+- Fuwalafuwaloo
+- Gale Force
+- Game Killer (0)
+- Garlic
+- Gatti Amari
+- Gemini (I)
+- Gemma Torpor
+- Glass Fandango
+- Globus
+- Godai Shuffle
+- Gorgeous Moon
+- Grand Cross
+- Greatest Jubilee
+- Guardian's Targe
+- Gungnir-Souris
+- Hand Grenade
+- Hats
+- Heart of Fire (XIX)
+- Heaven Sword
+- Hellfire
+- Hex
+- Holy Wand
+- Homing Miss
+- Hydro Storm
+- Hydrostormer Tip
+- Ice Fang
+- Icebrand
+- Impostongue
+- Infinite Corridor
+- Insatiable
+- Iron Ball
+- Iron Shield
+- J'Odore
+- Javelin
+- Jet Black Whip
+- Jewel Gun
+- Just Vent
+- Keremet Bubbles
+- Keremet Morbus
+- King Bible
+- Knife
+- La Borra
+- La Robba
+- Laurel
+- Legionnaire
+- Lifesign Scan
+- Lightning Ring
+- Long Gun
+- Long Inus
+- Lucky Swipe
+- Luminaire
+- Luminatio
+- Mace
+- Magic Wand
+- Mannajja
+- Mazo Familiar
+- Meal Ticket
+- Melio Confodere
+- Metal Claw
+- Mille Bolle Blu
+- Millionaire
+- Mirage Robe
+- Moon Rod
+- Mormegil Tip
+- Morning Star
+- Multistage Missiles
+- Muramasa
+- Myo Lift
+- Nduja Fritta Tanto
+- Night Sword
+- Nightmare
+- Nitesco
+- NO FUTURE
+- Ophion
+- Optical Shot
+- Out of Bounds (XII)
+- Pako Battiliar
+- Paranormal Scan
+- Party Popper
+- Peachone
+- Pentagram
+- Peri Pendulum
+- Phas3r
+- Phiera Der Tuphello
+- Phieraggi
+- Photonstorm
+- Platinum Whip
+- Pneuma Tempestas
+- Power of Sire
+- Prism Lass
+- Prismatic Missile
+- Profusione D'Amore
+- Pronto Beam
+- Prototype A
+- Prototype B
+- Prototype C
+- Raging Fire
+- Rapidus Fio
+- Refectio
+- Report!
+- Rock Riot
+- Rocket Science
+- Rune Sword
+- Runetracer
+- Sacred Beasts Tower Shield
+- Salamender
+- Sanctuary
+- Santa Javelin
+- Santa Water
+- Sarabande of Healing (VI)
+- Science Rocks
+- Seraphic Cry
+- Shadow Pinion
+- Shadow Servant
+- Sharp Tongue
+- Short Gun
+- Shuriken
+- Silver Revolver
+- Silver Wind
+- Sinestro Custos
+- Sole Solution
+- Song of Mana
+- Sonic Bloom
+- Sonic Dash
+- Sonic Whip
+- Soul Eater
+- Soul Steal
+- Spectral Sword
+- SpellStream
+- SpellStrike
+- SpellString
+- SpellStrom
+- Spirit Tornado Tip
+- Spread Shot
+- Stained Glass
+- Stamazza
+- Star Flail
+- Stellar Blade
+- Summon Night
+- Summon Spirit
+- Summon Spirit Tornado
+- Super Candybox II Turbo
+- Svarog Statue
+- Sword Brothers
+- Take Us Away
+- Tenebris Tonitrus
+- The RPG
+- Thousand Edge
+- Thunder Loop
+- Thunderbolt Spear
+- Time Warp
+- Tri-Bracelet
+- Trident
+- Trinum Custodem
+- Troll Bomb
+- Tyrfing
+- Umbra
+- Unholy Vespers
+- Universitas
+- Unjust Ejection
+- Valkyrie Turner
+- Valmanway
+- Vampire Killer
+- Vandalier
+- Vanitas Whip
+- Vento Sacro
+- Vibhuti Whip
+- Vicious Hunger
+- Victory Sword
+- Vol Confodere
+- Vol Luminatio
+- Vol Umbra
+- Wave Beam
+- Whip
+- Wind Whip
+- Wine Glass
+- Wrecking Ball
+- Yagyu Shuriken
+- Yatta Daikarin
+- Category:Evolution weapons
+- Category:Special Weapons
+
+### Passive items
+- URL: https://vampire-survivors.fandom.com/wiki/Category:Passive_items
+- Extracted entries: 35
+- Passive items
+- Academy Badge
+- Armor (item)
+- Attractorb
+- Bracer
+- Candelabrador
+- Clover
+- Crown
+- Duplicator
+- Empty Tome
+- Evolution
+- Gold Ring
+- Hollow Heart
+- Karoma's Mana
+- Metaglio Left
+- Metaglio Right
+- Mini Crewmate
+- Mini Engineer
+- Mini Ghost
+- Mini Guardian
+- Mini Horse
+- Mini Impostor
+- Mini Scientist
+- Mini Shapeshifter
+- Parm Aegis
+- Pummarola
+- Silver Ring
+- Skull O'Maniac
+- Spellbinder
+- Spinach
+- Stone Mask
+- Tirajisú
+- Torrona's Box
+- Weapon Power-Up
+- Wings
+
+### Mechanics
+- URL: https://vampire-survivors.fandom.com/wiki/Category:Mechanics
+- Extracted entries: 29
+- Achievements
+- Arcanas
+- Coffin
+- Dairy Cart
+- Eggman
+- Enemies
+- Evolution
+- Freeze
+- Gold Coin (currency)
+- Healer
+- Health Drain
+- Invulnerable
+- Knockback
+- Level up
+- Light source
+- Limit Break
+- Merchant
+- Overhealing
+- PowerUps
+- Random Events
+- Retaliate
+- Secret
+- Spell
+- Stained Glass
+- Take Us Away
+- The Reaper
+- Weapons/Combos
+- Weapons/Overview Stats
+- Category:Wave events
+
+## The Binding of Isaac: Rebirth
+- Home/source root: https://bindingofisaacrebirth.fandom.com
+
+### Characters
+- URL: https://bindingofisaacrebirth.fandom.com/wiki/Category:Characters
+- Extracted entries: 37
+- Co-op
+- ??? (Character)
+- Apollyon
+- Azazel
+- Bethany
+- Cain
+- Eden
+- Eve
+- Isaac
+- Jacob & Esau
+- Judas
+- Keeper
+- Lazarus
+- Lilith
+- Magdalene
+- NPCs
+- Samson
+- Tainted ???
+- Tainted Apollyon
+- Tainted Azazel
+- Tainted Bethany
+- Tainted Cain
+- Tainted Characters
+- Tainted Eden
+- Tainted Eve
+- Tainted Forgotten
+- Tainted Isaac
+- Tainted Jacob
+- Tainted Judas
+- Tainted Keeper
+- Tainted Lazarus
+- Tainted Lilith
+- Tainted Lost
+- Tainted Magdalene
+- Tainted Samson
+- The Forgotten
+- The Lost
+
+### Passive collectibles
+- URL: https://bindingofisaacrebirth.fandom.com/wiki/Category:Passive_collectibles
+- Extracted entries: 551
+- 120 Volt
+- 1up!
+- 20/20
+- 2Spooky
+- 3 Dollar Bill
+- 4.5 Volt
+- 7 Seals
+- 8 Inch Nails
+- 9 Volt
+- ???'s Only Friend
+- A Bar of Soap
+- A Dollar
+- A Lump of Coal
+- A Pound of Flesh
+- A Quarter
+- A Snack
+- Abaddon
+- Abel
+- Acid Baby
+- Act of Contrition
+- Adrenaline
+- Akeldama
+- Almond Milk
+- Analog Stick
+- Anemic
+- Angelic Prism
+- Angry Fly
+- Ankh
+- Anti-Gravity
+- Apple!
+- Aquarius
+- Aries
+- Astral Projection
+- Athame
+- Azazel's Rage
+- Backstabber
+- Ball of Bandages
+- Ball of Tar
+- Battery Pack
+- BBF
+- Belly Button
+- Belly Jelly
+- Best Bud
+- Betrayal
+- BFFS!
+- Big Chubby
+- Big Fan
+- Binge Eater
+- Binky
+- Bird Cage
+- Bird's Eye
+- Birthright
+- Black Candle
+- Black Lotus
+- Black Powder
+- Blanket
+- Blood Bag
+- Blood Bombs
+- Blood Clot
+- Blood Oath
+- Blood of the Martyr
+- Blood Puppy
+- Bloodshot Eye
+- Bloody Gust
+- Bloody Lust
+- Blue Cap
+- Blue Map
+- Bob's Brain
+- Bob's Curse
+- Bobby-Bomb
+- BOGO Bombs
+- Boiled Baby
+- Bomb Bag
+- Bomber Boy
+- Bone Spurs
+- Book of Virtues
+- Boom!
+- Booster Pack (Item)
+- Bot Fly
+- Box
+- Bozo
+- Breakfast
+- Brimstone
+- Brimstone Bombs
+- Brittle Bones
+- Broken Modem
+- Broken Shovel
+- Broken Watch
+- Brother Bobby
+- Bucket of Lard
+- Buddy in a Box
+- Bum Friend
+- Bumbo
+- Bursting Sack
+- Butt Bombs
+- C Section
+- Caffeine Pill
+- Cain's Other Eye
+- Cambion Conception
+- Camo Undies
+- Cancer
+- Candy Heart
+- Capricorn
+- Car Battery
+- Card Reading
+- Cat-o-nine-tails
+- Celtic Cross
+- Censer
+- Ceremonial Robes
+- Champion Belt
+- Chaos
+- Charged Baby
+- Charm of the Vampire
+- Chemical Peel
+- Chocolate Milk
+- Circle of Protection
+- Compound Fracture
+- Cone Head
+- Consolation Prize
+- Contagion
+- Continuum
+- Contract From Below
+- Crack Jacks
+- Cracked Orb
+- Cricket's Body
+- Cricket's Head
+- Crown Of Light
+- Cube Baby
+- Cube of Meat
+- Cupid's Arrow
+- Curse of the Tower
+- Cursed Eye
+- Dad's Lost Coin
+- Dad's Note
+- Dad's Ring
+- Daddy Longlegs
+- Dark Bum
+- Dark Matter
+- Dark Prince's Crown
+- Dead Bird
+- Dead Cat
+- Dead Dove
+- Dead Eye
+- Dead Onion
+- Dead Tooth
+- Death's List
+- Death's Touch
+- Deep Pockets
+- Demon Baby
+- Depression
+- Dessert
+- Dinner
+- Dirty Mind
+- Distant Admiration
+- Divine Intervention
+- Divorce Papers
+- Dog Tooth
+- Dogma (Item)
+- Dr. Fetus
+- Dream Catcher
+- Dry Baby
+- Duality
+- E. Coli
+- Echo Chamber
+- Eden's Blessing
+- Empty Heart
+- Empty Vessel
+- Epic Fetus
+- Epiphora
+- Eucharist
+- Euthanasia
+- Eve's Mascara
+- Evil Charm
+- Evil Eye
+- Experimental Treatment
+- Explosivo
+- Eye Drops
+- Eye of Belial
+- Eye of Greed
+- Eye of the Occult
+- Eye Sore
+- False PHD
+- Fanny Pack
+- Farting Baby
+- Fast Bombs
+- Fate
+- Fate's Reward
+- Finger!
+- Fire Mind
+- Flat Stone
+- Forever alone
+- Freezer Baby
+- Friend Zone
+- Fruit Cake
+- Fruity Plum
+- G FUEL!
+- GB Bug
+- Gemini (Item)
+- Ghost Baby
+- Ghost Bombs
+- Ghost Pepper
+- Giant Cell
+- Gimpy
+- Glass Eye
+- Glaucoma
+- Glitched Crown
+- Glitter Bombs
+- Glyph of Balance
+- Gnawed Leaf
+- Goat Head
+- God's Flesh
+- Godhead
+- Greed's Gullet
+- Growth Hormones
+- Guardian Angel
+- Guillotine
+- Guppy's Collar
+- Guppy's Eye
+- Guppy's Hairball
+- Guppy's Tail
+- Habit
+- Haemolacria
+- Hallowed Ground
+- Halo of Flies
+- Harlequin Baby
+- Head of the Keeper
+- Headless Baby
+- Heartbreak
+- Hemoptysis
+- Hive Mind
+- Holy Grail
+- Holy Light
+- Holy Mantle
+- Holy Water
+- Host Hat
+- Hot Bombs
+- Humbleing Bundle
+- Hungry Soul
+- Hushy
+- Hypercoagulation
+- IBS
+- Immaculate Conception
+- Immaculate Heart
+- Incubus
+- Infamy
+- Infestation
+- Infestation 2
+- Inner Child
+- Ipecac
+- Iron Bar
+- Isaac's Heart
+- Isaac's Tomb
+- It Hurts
+- Jacob's Ladder
+- Jaw Bone
+- Jesus Juice
+- Judas' Shadow
+- Juicy Sack
+- Jumper Cables
+- Jupiter
+- Keeper's Kin
+- Keeper's Sack
+- Key Bum
+- Key Piece 1
+- Key Piece 2
+- Kidney Stone
+- King Baby
+- Knife Piece 1
+- Knife Piece 2
+- Knockout Drops
+- Lachryphagy
+- Large Zit
+- Latch Key
+- Lazarus' Rags
+- Lead Pencil
+- Leech
+- Leo
+- Leprosy
+- Less Than Three
+- Libra
+- Lil Abaddon
+- Lil Brimstone
+- Lil Chest
+- Lil Delirium
+- Lil Dumpy
+- Lil Gurdy
+- Lil Haunt
+- Lil Loki
+- Lil Monstro
+- Lil Portal
+- Lil Spewer
+- Linger Bean
+- Little Baggy
+- Little C.H.A.D.
+- Little Chubby
+- Little Gish
+- Little Horn (Item)
+- Little Steven
+- Lodestone
+- Loki's Horns
+- Lord of the Pit
+- Lost Contact
+- Lost Fly
+- Lost Soul
+- Lucky Foot
+- Luna
+- Lunch
+- Lusty Blood
+- Maggy's Bow
+- Magic 8 Ball
+- Magic Mushroom
+- Magic Scab
+- Magneto
+- Marbles
+- Marked
+- Marrow
+- Mars
+- Match Book
+- Maw Of The Void
+- MEAT!
+- Member Card
+- Mercurius
+- Metal Plate
+- Midas' Touch
+- Midnight Snack
+- Milk!
+- Mini Mush
+- Missing No.
+- Missing Page 2
+- Mitre
+- Mom's Coin Purse
+- Mom's Contacts
+- Mom's Eye
+- Mom's Eyeshadow
+- Mom's Heels
+- Mom's Key
+- Mom's Knife
+- Mom's Lipstick
+- Mom's Pearls
+- Mom's Perfume
+- Mom's Purse
+- Mom's Razor
+- Mom's Ring
+- Mom's Underwear
+- Mom's Wig
+- Money = Power
+- Mongo Baby
+- Monstrance
+- Monstro's Lung
+- Montezuma's Revenge
+- More Options
+- Mr. Dolly
+- Mr. Mega
+- Mucormycosis
+- Multidimensional Baby
+- Mutant Spider
+- My Reflection
+- My Shadow
+- Mysterious Liquid
+- Mystery Egg
+- Mystery Sack
+- Nancy Bombs
+- Neptunus
+- Night Light
+- No. 2
+- Number One
+- Obsessed Fan
+- Ocular Rift
+- Odd Mushroom (Large)
+- Odd Mushroom (Thin)
+- Old Bandage
+- Options?
+- Orphan Socks
+- Ouija Board
+- Pageant Boy
+- Papa Fly
+- Parasitoid
+- Paschal Candle
+- Pay To Play
+- Pentagram
+- PHD
+- Piggy Bank
+- Pisces
+- PJs
+- Placenta
+- Playdough Cookie
+- Pluto
+- Pointy Rib
+- Poke Go
+- Polydactyly
+- Polyphemus
+- Pop!
+- Proptosis
+- Psy Fly
+- Punching Bag
+- Pupula Duplex
+- Purgatory
+- Purity
+- Pyro
+- Pyromaniac
+- Quints
+- Rainbow Baby
+- Raw Liver
+- Red Stew
+- Redemption
+- Restock
+- Revelation
+- Robo-Baby
+- Robo-Baby 2.0
+- Rock Bottom
+- Rocket in a Jar
+- Roid Rage
+- Rosary
+- Rotten Baby
+- Rotten Meat
+- Rotten Tomato
+- Rubber Cement
+- Rune Bag
+- Sack Head
+- Sack of Pennies
+- Sack of Sacks
+- Sacred Heart
+- Sacred Orb
+- Sacrificial Dagger
+- Sad Bombs
+- Safety Pin
+- Sagittarius
+- Salvation
+- Samson's Chains
+- Sanguine Bond
+- Saturnus
+- Sausage
+- Scapular
+- Scatter Bombs
+- Schoolbag
+- Scorpio
+- Screw
+- Seraphim
+- Serpent's Kiss
+- Shade
+- Shard of Glass
+- Sharp Plug
+- Sinus Infection
+- Sissy Longlegs
+- Sister Maggy
+- Skatole
+- Skeleton Key
+- Slipped Rib
+- Smart Fly
+- SMB Super Fan
+- Sol
+- Soul Locket
+- Soy Milk
+- Spear Of Destiny
+- Speed Ball
+- Spelunker Hat
+- Spider Bite
+- Spider Mod
+- Spiderbaby
+- Spirit of the Night
+- Spirit Shackles
+- Spirit Sword
+- Spoon Bender
+- Squeezy
+- Stapler
+- Star of Bethlehem
+- Starter Deck
+- Steam Sale
+- Stem Cells
+- Steven (Item)
+- Sticky Bombs
+- Stigmata
+- Stop Watch
+- Strange Attractor
+- Strawman
+- Stye
+- Succubus
+- Sulfuric Acid
+- Super Bandage
+- Supper
+- Sworn Protector
+- Synthoil
+- Tarot Cloth
+- Taurus
+- Tech X
+- Tech.5
+- Technology
+- Technology 2
+- Technology Zero
+- Terra
+- The Battery
+- The Belt
+- The Black Bean
+- The Body
+- The Common Cold
+- The Compass
+- The Halo
+- The Inner Eye
+- The Intruder
+- The Ladder
+- The Ludovico Technique
+- The Mark
+- The Mind
+- The Mulligan
+- The Negative
+- The Pact
+- The Parasite
+- The Peeper
+- The Polaroid
+- The Relic
+- The Sad Onion
+- The Small Rock
+- The Soul
+- The Stairway
+- The Swarm
+- The Virus
+- The Wafer
+- The Wiz
+- There's Options
+- Thunder Thighs
+- Tiny Planet
+- Tinytoma
+- TMTRAINER
+- Tonsil
+- Tooth and Nail
+- Tooth Picks
+- Torn Photo
+- Tough Love
+- Toxic Shock
+- Tractor Beam
+- Transcendence
+- Treasure Map
+- Trinity Shield
+- Trisagion
+- Tropicamide
+- Twisted Pair
+- Uranus
+- Vanishing Twin
+- Varicose Veins
+- Vasculitis
+- Vengeful Spirit
+- Venus
+- Virgo
+- Voodoo Head
+- Whore of Babylon
+- Wire Coat Hanger
+- Wooden Spoon
+- Worm Friend
+- X-Ray Vision
+- YO LISTEN!
+- Zodiac
+
+### Mechanics
+- URL: https://bindingofisaacrebirth.fandom.com/wiki/Category:Mechanics
+- Extracted entries: 72
+- Achievement Tips
+- Attributes
+- Blindfolded
+- Boss Rush
+- Characters
+- Co-op
+- Completion Marks
+- Corrupt Data
+- Creep
+- Curses
+- Daily Challenges
+- Damage
+- Damage Scaling
+- Death
+- Donation Machine
+- Eden Generation
+- Effects
+- Endings
+- Flight
+- GB Bug
+- Greed Donation Machine
+- Greed Mode
+- Hard mode
+- Health
+- Hidden Attributes
+- HUD
+- Item Pool
+- Item Quality
+- Item Tags
+- Level Generation
+- Luck
+- Mini-Boss Room
+- Pills
+- Player Effects
+- Range
+- RERUN
+- Room Clear Awards
+- Savefile Images
+- Seeds
+- Shot Speed
+- Special Item
+- Speed
+- Stage HP
+- Status Effects
+- Tear Effects
+- Tears
+- Temporary Buffs
+- Title Sequence
+- Victory Lap
+- Wisps.xml
+- Category:Item Tags
+- Category:Store Upgrades
+- Category:Transformations
+- File:Curse of Darkness.png
+- File:Curse of the Blind.png
+- File:Curse of the Cursed.png
+- File:Curse of the Giant.png
+- File:Curse of the Labyrinth.png
+- File:Curse of the Lost.png
+- File:Curse of the Maze.png
+- File:Curse of the Unknown.png
+- File:Ending 1 Eden.png
+- File:Ending 11 It Lives.png
+- File:Ending 2 Rubber Cement 2.png
+- File:Ending 2 Rubber Cement.png
+- File:Ending 3 Transcendence 2.png
+- File:Ending 3 Transcendence.png
+- File:Ending 4 Wire Coat Hanger 2.png
+- File:Ending 4 Wire Coat Hanger.png
+- File:Ending 5 Mom.png
+- File:Ending 6 Ipecac.png
+- File:Ending 9 Dr. Fetus 2.png
+
+## Enter the Gungeon
+- Home/source root: https://enterthegungeon.fandom.com
+
+### Gungeoneers
+- URL: https://enterthegungeon.fandom.com/wiki/Category:Gungeoneers
+- Extracted entries: 20
+- Cormorant
+- Eevee
+- Gungeoneers
+- Gungeoneers/fr
+- Lamey
+- Resourceful Rat
+- Resourceful Rat/fr
+- The Bullet
+- The Convict
+- The Cosmonaut
+- The Cultist
+- The Gunslinger
+- The Gunslinger/fr
+- The Hunter
+- The Hunter/fr
+- The Marine
+- The Ninja
+- The Paradox
+- The Pilot
+- The Robot
+
+### Items
+- URL: https://enterthegungeon.fandom.com/wiki/Items
+- Extracted entries: 297
+- Quality
+- Pickups
+- +1 Bullets
+- Aged Bell
+- Air Strike
+- Alpha Bullet
+- Ammo Belt
+- Ammo Synthesizer
+- Amulet of the Pit Lord
+- Ancient Hero's Bandana
+- Angry Bullets
+- Antibody
+- Arcane Gunpowder
+- Armor Synthesizer
+- Armor of Thorns
+- Baby Good Mimic
+- Baby Good Shelleton
+- Backpack
+- Backup Gun
+- Badge
+- Ballistic Boots
+- Ballot
+- Battery Bullets
+- Battle Standard
+- Big Boy
+- Bionic Leg
+- Blank Bullets
+- Blank Companion's Ring
+- Blast Helmet
+- Blood Brooch
+- Bloodied Scarf
+- Bloody 9mm
+- Bloody Eye
+- Blue Guon Stone
+- Bomb
+- Book of Chest Anatomy
+- Boomerang
+- Bosses
+- Bottle
+- Bouncy Bullets
+- Box
+- Bracket Key
+- Brick of Cash
+- Briefcase of Cash
+- Broccoli
+- Bug Boots
+- Bullet Idol
+- Bullet That Can Kill The Past
+- Bullet Time
+- Bumbullets
+- Busted Television
+- C4
+- Cartographer's Ring
+- Cat Bullet King Throne
+- Chaff Grenade
+- Chance Bullets
+- Chaos Ammolet
+- Chaos Bullets
+- Charm Horn
+- Charming Rounds
+- Chest Teleporter
+- Chests
+- Chicken Flute
+- Cigarettes
+- Clear Guon Stone
+- Clone
+- Cloranthy Ring
+- Clown Mask
+- Cluster Mine
+- Cog of Battle
+- Coin Crown
+- Coolant Leak
+- Coolness
+- Copper Ammolet
+- Crisis Stone
+- Crutch
+- Curse
+- Cursed Bullets
+- Daruma
+- Decoy
+- Devolver Rounds
+- Disarming Personality
+- Dodge Roll (Move)
+- Dog
+- Double Vision
+- Drill
+- Drum Clip
+- Duct Tape
+- Easy Reload Bullets
+- Elder Blank
+- Enraging Photo
+- Escape Rope
+- Explosive Decoy
+- Explosive Rounds
+- Eyepatch
+- Fat Bullets
+- Flak Bullets
+- Fortune's Favor
+- Friendship Cookie
+- Frost Ammolet
+- Frost Bullets
+- Full Metal Jacket
+- Galactic Medal of Valor
+- Gas Mask
+- Ghost Bullets
+- Gilded Bullets
+- Glass Guon Stone
+- Gold Ammolet
+- Gold Junk
+- Grappling Hook
+- Green Guon Stone
+- Gun Soul
+- Gunboots
+- Gundromeda Strain
+- Gungeon Blueprint
+- Gungeon Pepper
+- Gunknight Armor
+- Gunknight Gauntlet
+- Gunknight Greaves
+- Gunknight Helmet
+- Hazmat Suit
+- Heart Bottle
+- Heart Holster
+- Heart Locket
+- Heart Lunchbox
+- Heart Purse
+- Heart Synthesizer
+- Heart of Ice
+- Heavy Boots
+- Heavy Bullets
+- Helix Bullets
+- Hidden Compartment
+- Hip Holster
+- Holey Grail
+- Homing Bullets
+- Honeycomb
+- Hot Lead
+- Hungry Bullets
+- IBomb Companion App
+- Ice Bomb
+- Ice Cube
+- Infuriating Note
+- Iron Coin
+- Irradiated Lead
+- Jar of Bees
+- Jetpack
+- Junk
+- Katana Bullets
+- Knife Shield
+- Lament Configurum
+- Laser Sight
+- Lich's Eye Bullets
+- Lichy Trigger Finger
+- Lies
+- Liquid Valkyrie
+- Live Ammo
+- Lodestone Ammolet
+- Loot Bag
+- Macho Brace
+- Magazine Rack
+- Magic Bullets
+- Magic Sweet
+- Map
+- Master Round
+- Master of Unlocking
+- Meatbun
+- Medkit
+- Melted Rock
+- Metronome
+- Military Training
+- Mimic
+- Mimic Tooth Necklace
+- Molotov
+- Monster Blood
+- Muscle Relaxant
+- Mustache
+- Nanomachines
+- Napalm Strike
+- Number 2
+- Obsidian Shell Casing
+- Oiled Cylinder
+- Old Crest
+- Old Knight's Flask
+- Old Knight's Helm
+- Old Knight's Shield
+- Omega Bullets
+- Orange
+- Orange Guon Stone
+- Orbital Bullets
+- Owl
+- Partially-Eaten Cheese
+- Pig
+- Pink Guon Stone
+- Planar Lead
+- Platinum Bullets
+- Poison Vial
+- Portable Table Device
+- Portable Turret
+- Potion of Gun Friendship
+- Potion of Lead Skin
+- Prime Primer
+- Professor Goopton
+- Proximity Mine
+- R2G2
+- Rat Boots
+- Ration
+- Red Guon Stone
+- Relodestone
+- Remote Bullets
+- Resourceful Rat's Lair
+- Resourceful Sack
+- Riddle of Lead
+- Ring of Chest Friendship
+- Ring of Chest Vampirism
+- Ring of Ethereal Form
+- Ring of Fire Resistance
+- Ring of Mimic Friendship
+- Ring of Miserly Protection
+- Ring of Triggers
+- Ring of the Resourceful Rat
+- Rocket-Powered Bullets
+- Roll Bomb
+- Rolling Eye
+- Ruby Bracelet
+- Scattershot
+- Scope
+- Scouter
+- Sense of Direction
+- Ser Junkan
+- Serpent
+- Seven-Leaf Clover
+- Shadow Bullets
+- Shadow Clone
+- Shelleton Key
+- Shield of the Maiden
+- Shock Rounds
+- Shotga Cola
+- Shotgun Coffee
+- Silver Bullets
+- Singularity
+- Sixth Chamber
+- Smoke Bomb
+- Snowballets
+- Space Friend
+- Spice
+- Sponge
+- Springheel Boots
+- Sprun
+- Stout Bullets
+- Stuffed Star
+- Sunglasses
+- Super Hot Watch
+- Super Space Turtle
+- Supply Drop
+- Table Tech Blanks
+- Table Tech Heat
+- Table Tech Money
+- Table Tech Rage
+- Table Tech Rocket
+- Table Tech Shotgun
+- Table Tech Sight
+- Table Tech Stun
+- Teleporter Prototype
+- The Cultist
+- Ticket
+- Trusty Lockpicks
+- Turkey
+- Turtle Problem
+- Unity
+- Uranium Ammolet
+- Utility Belt
+- Vorpal Bullets
+- Wax Wings
+- Weird Egg
+- White Guon Stone
+- Windgunner
+- Wingman
+- Wolf
+- Yellow Chamber
+- Zombie Bullets
+- Supply Drop Update
+- Advanced Gungeons & Draguns Update
+- A Farewell to Arms Update
+- Abbey of the True Gun
+- Black Powder Mine
+- Bullet Hell
+- Enter the Gungeon
+- Forge
+- Gungeon Proper
+- Guns
+- Hollow
+- Keep of the Lead Lord
+- NPCs
+- Oubliette
+- Resourceful Rat
+- Shop
+- The Robot
+
+### Guns
+- URL: https://enterthegungeon.fandom.com/wiki/Category:Guns
+- Extracted entries: 369
+- 38 Special
+- 38 Special/zh
+- 3rd Party Controller
+- A.W.P.
+- Abyssal Tentacle
+- AC-15
+- AK-47
+- AKEY-47
+- AKEY-47/fr
+- Alien Engine
+- Alien Sidearm
+- Anvillain
+- Especial de Piloto
+- Rogue Special/es
+- AU Gun
+- AU Gun/zh
+- Bait Launcher
+- Balloon Gun
+- Banana
+- Barrel
+- Bee Hive
+- Betrayer's Shield
+- Betrayer's Shield/fr
+- Big Iron
+- Big Iron/zh
+- Big Shotgun
+- Black Hole Gun
+- Black Revolver
+- Blasphemy
+- Blasphemy/fr
+- Blasphemy/zh
+- Blooper
+- Blunderbuss
+- Blunderbuss/zh
+- Bow
+- Boxing Glove
+- Brick Breaker
+- BSG
+- Bubble Blaster
+- Budget Revolver
+- Budget Revolver/fr
+- Budget Revolver/zh
+- Bullet
+- Bullet Bore
+- Bullet/zh
+- Bundle of Wands
+- Buzzkill
+- Cactus
+- Camera
+- Casey
+- Casey/fr
+- Casey/zh
+- Cat Claw
+- Chamber Gun
+- Charge Shot
+- Charmed Bow
+- Chromesteel Assault Rifle
+- Cobalt Hammer
+- Cold 45
+- Cold 45/zh
+- Colt 1851
+- Colt 1851/zh
+- Com4nd0
+- Combined Rifle
+- Composite Gun
+- Composite Gun/zh
+- Compressed Air Tank
+- Corsair
+- Crescent Crossbow
+- Crestfaller
+- Crossbow
+- Crossbow/fr
+- Crown of Guns
+- Dark Marker
+- Dart Gun
+- Dart Gun/fr
+- Dart Gun/zh
+- Deck4rd
+- Demon Head
+- Derringer
+- Derringer/zh
+- Devolver
+- Directional Pad
+- Disintegrator
+- Dragunfire
+- Dueling Laser
+- Dueling Laser/fr
+- Dueling Pistol
+- Dueling Pistol/zh
+- Dungeon Eagle
+- Dungeon Eagle/zh
+- El Tigre
+- Elephant Gun
+- Elephant Gun/zh
+- Elimentaler
+- Elimentaler/fr
+- Encircler
+- Evolver
+- Excaliber
+- Eye of the Beholster
+- Face Melter
+- Fightsabre
+- Finished Gun
+- Flame Hand
+- Flare Gun
+- Flare Gun/zh
+- Flash Ray
+- Fossilized Gun
+- Freeze Ray
+- Frost Giant
+- Gamma Ray
+- Gilded Hydra
+- Gilded Hydra/zh
+- Glacier
+- Glass Cannon
+- Grasschopper
+- Grenade Launcher
+- Grey Mauser
+- Grey Mauser/fr
+- Grey Mauser/zh
+- Gummy Gun
+- Gunbow
+- Gunderfury
+- Gundertale
+- Gungeon Ant
+- Gungine
+- GuNNER
+- Guns
+- Guns/fr
+- Gunslinger's Ashes
+- Gunther
+- Gunther/fr
+- Gunzheng
+- H4mmer
+- Heck Blaster
+- Hegemony Carbine
+- Hegemony Rifle
+- Helix
+- Hero Sword
+- Heroine
+- Hexagun
+- High Dragunfire
+- High Kaliber
+- Huntsman
+- Huntsman/zh
+- Hyper Light Blaster
+- Hyper Light Blaster/zh
+- Ice Breaker
+- Ice Breaker/zh
+- Ice Ogre Head
+- JK-47
+- Jolter
+- Jolter/zh
+- Katana
+- Klobbe
+- Knight's Gun
+- Kruller Glaive
+- Lamey Gun
+- Laser Lotus
+- Laser Rifle
+- Life Orb
+- Light Gun
+- Lil' Bomber
+- Lower Case r
+- Luxin Cannon
+- M1
+- M16
+- M1911
+- M1911/zh
+- MAC10
+- Machine Fist
+- Machine Pistol
+- Magic Lamp
+- Magnum
+- Magnum/zh
+- Mahoguny
+- Mailbox
+- Makarov
+- Makarov/zh
+- Makeshift Cannon
+- Marine Sidearm
+- Marine Sidearm/fr
+- Marine Sidearm/zh
+- Mass Shotgun
+- Mass Shotgun/zh
+- Mega Douser
+- Megahand
+- Megaphone
+- Microtransaction Gun
+- Mimic Gun
+- Mine Cutter
+- Mjolnir
+- Molotov Launcher
+- Moonscraper
+- Mourning Star
+- Mr. Accretion Jr.
+- Mutation
+- Nail Gun
+- Old Goldie
+- Old Goldie/zh
+- Origuni
+- Particulator
+- Patriot
+- Pea Shooter
+- Pea Shooter/zh
+- Phoenix
+- Pitchfork
+- Plague Pistol
+- Plunger
+- Polaris
+- Polaris/zh
+- Portaler
+- Poxcannon
+- Prize Pistol
+- Proton Backpack
+- Prototype Railgun
+- Pulse Cannon
+- Pulse Cannon/zh
+- Quad Laser
+- Rad Gun
+- Raiden Coil
+- Railgun
+- Rattler
+- Rattler/zh
+- RC Rocket
+- Really Special Lute
+- Regular Shotgun
+- Regular Shotgun/zh
+- Robot's Left Hand
+- Robot's Right Hand
+- Robot's Right Hand/fr
+- Robot's Right Hand/zh
+- Rogue Special
+- Rogue Special/fr
+- Rogue Special/zh
+- RPG
+- RUBE-ADYNE MK.II
+- RUBE-ADYNE Prototype
+- Rubenstein's Monster
+- Rusty Sidearm
+- Rusty Sidearm/af
+- Rusty Sidearm/fr
+- Rusty Sidearm/zh
+- SAA
+- SAA/zh
+- Sawed-Off
+- Sawed-Off/zh
+- Science Cannon
+- Screecher
+- Ser Manuel's Revolver
+- Serious Cannon
+- Shades's Revolver
+- Shades's Revolver/zh
+- Shell
+- Shell/zh
+- Shellegun
+- Shellegun/zh
+- Shock Rifle
+- Shotbow
+- Shotgrub
+- Shotgrub/zh
+- Shotgun Full of Hate
+- Shotgun Full of Hate/zh
+- Shotgun Full of Love
+- Shotgun Full of Love/zh
+- Silencer
+- Siren
+- Siren/zh
+- Skull Spitter
+- Sling
+- Slinger
+- Slinger/fr
+- Smiley's Revolver
+- Smiley's Revolver/zh
+- Snakemaker
+- Sniper Rifle
+- Snowballer
+- Staff of Firepower
+- Starpew
+- Sticky Crossbow
+- Stinger
+- Stone Dome
+- Strafe Gun
+- Sunlight Javelin
+- Super Meat Gun
+- Super Space Turtle (Gun)
+- T-Shirt Cannon
+- Tangler
+- Tangler/zh
+- Teapot
+- Tear Jerker
+- Tetrominator
+- The Emperor
+- The Exotic
+- The Fat Line
+- The Judge
+- The Kiln
+- The Membrane
+- The Membrane/zh
+- The Predator
+- The Scrambler
+- Thompson Sub-Machinegun
+- Thunderclap
+- Trank Gun
+- Trashcannon
+- Trick Gun
+- Trident
+- Triple Crossbow
+- Triple Gun
+- Turbo-Gun
+- Turtine Gun
+- Unfinished Gun
+- Unfinished Gun/zh
+- Unicorn Horn
+- Untitled Gun
+- VertebraeK-47
+- Void Core Assault Rifle
+- Void Core Cannon
+- Void Core Rocket Launcher
+- Void Marshal
+- Void Shotgun
+- Void Shotgun/zh
+- Vorpal Gun
+- Vorpal Gun/zh
+- Vulcan Cannon
+- Winchester
+- Winchester Rifle
+- Winchester/zh
+- Wind Up Gun
+- Windgunner
+- Windgunner/fr
+- Witch Pistol
+- Wood Beam
+- Wristbow
+- Yari Launcher
+- Zilla Shotgun
+- Zilla Shotgun/zh
+- Zorgun
+- 亵渎
+- Category:Automatic
+- Category:Beam
+- Category:Blank
+- Category:Burst
+- Category:Charged
+- Category:Charm
+- Category:Cheese
+- Category:Currency
+- Category:Curse
+- Category:Damage
+- Category:DPS missing
+- Category:Electricity
+- Category:Gun Quality A
+- Category:Gun Quality B
+- Category:Gun Quality C
+- Category:Gun Quality D
+- Category:Gun Quality S
+- Category:Ice
+- Category:Keys
+- Category:Oil
+- Category:Quality
+- Category:Resourceful Rat
+- Category:Sell price missing
+- Category:Semiautomatic
+- Category:Shop Discounts
+- Category:Slow
+- Category:Stealing
+- Category:Stun
+- Category:Transmog
+- Category:Water
+
+### Synergies
+- URL: https://enterthegungeon.fandom.com/wiki/Synergies
+- Extracted entries: 453
+- Scope
+- A.W.P.
+- Sniper Rifle
+- The Membrane
+- Bouncy Bullets
+- Alpha Bullet
+- Hot Lead
+- Frost Bullets
+- Irradiated Lead
+- AKEY-47
+- Shelleton Key
+- Roll Bomb
+- IBomb Companion App
+- Air Strike
+- Explosive Rounds
+- AK-47
+- Orange
+- Crown of Guns
+- Crescent Crossbow
+- Thunderclap
+- Shock Rounds
+- Colt 1851
+- Table Tech Sight
+- Escape Rope
+- Heart Holster
+- Hip Holster
+- Face Melter
+- Drum Clip
+- Melted Rock
+- Gilded Bullets
+- Platinum Bullets
+- Heavy Bullets
+- Ruby Bracelet
+- Zorgun
+- Alien Engine
+- RPG
+- Flak Bullets
+- Dark Marker
+- Antibody
+- Bee Hive
+- Box
+- Shock Rifle
+- M16
+- Heart of Ice
+- Frost Ammolet
+- Snowballets
+- AC-15
+- Void Core Assault Rifle
+- Armor of Thorns
+- Ring of Fire Resistance
+- Copper Ammolet
+- The Scrambler
+- Pig
+- Screecher
+- Dueling Laser
+- Charge Shot
+- Jetpack
+- R2G2
+- Orbital Bullets
+- Bomb
+- Ice Bomb
+- Honeycomb
+- Jar of Bees
+- Bumbullets
+- Com4nd0
+- Eye of the Beholster
+- M1911
+- Machine Pistol
+- Trank Gun
+- Void Marshal
+- Gamma Ray
+- Betrayer's Shield
+- Lies
+- BSG
+- Big Shotgun
+- Baby Good Shelleton
+- Shellegun
+- Corsair
+- Serious Cannon
+- Grappling Hook
+- Kruller Glaive
+- Blood Brooch
+- Ring of Chest Vampirism
+- Deck4rd
+- Origuni
+- Bullet
+- Shell
+- Elder Blank
+- Blank Companion's Ring
+- Blast Helmet
+- Cursed Bullets
+- Silver Bullets
+- Brick Breaker
+- Mustache
+- Blue Guon Stone
+- +1 Bullets
+- Bullet Time
+- Amulet of the Pit Lord
+- Blunderbuss
+- Macho Brace
+- Lil' Bomber
+- Siren
+- Trident
+- Bionic Leg
+- Wind Up Gun
+- Seven-Leaf Clover
+- Bug Boots
+- Gungeon Ant
+- The Kiln
+- Luxin Cannon
+- Chicken Flute
+- Bubble Blaster
+- Gungine
+- Ammo Belt
+- Excaliber
+- Cactus
+- Broccoli
+- Camera
+- Chaff Grenade
+- Unity
+- Portable Turret
+- Casey
+- Shotgun Full of Hate
+- Nail Gun
+- Eyepatch
+- Brick of Cash
+- Briefcase of Cash
+- Big Iron
+- Bundle of Wands
+- Witch Pistol
+- Hexagun
+- Cat Claw
+- Bait Launcher
+- Bullet Bore
+- Bow
+- Charmed Bow
+- Cluster Mine
+- Shadow Bullets
+- Gunderfury
+- Mourning Star
+- Cog of Battle
+- Magic Bullets
+- Staff of Firepower
+- Alien Sidearm
+- Master Round
+- Tetrominator
+- Gunknight Gauntlet
+- Clear Guon Stone
+- Bottle
+- Cold 45
+- Devolver
+- Mutation
+- Shotgrub
+- Strafe Gun
+- Gunknight Helmet
+- Gunknight Armor
+- Gunknight Greaves
+- Abyssal Tentacle
+- Black Hole Gun
+- Boomerang
+- Crestfaller
+- Gun Soul
+- Vorpal Gun
+- Bullet Idol
+- Phoenix
+- Fossilized Gun
+- Unicorn Horn
+- Zombie Bullets
+- Gunslinger's Ashes
+- Skull Spitter
+- VertebraeK-47
+- Railgun
+- Fortune's Favor
+- Mine Cutter
+- Derringer
+- Dueling Pistol
+- Decoy
+- Monster Blood
+- Explosive Decoy
+- Hegemony Carbine
+- Galactic Medal of Valor
+- 38 Special
+- Magnum
+- Badge
+- Omega Bullets
+- Muscle Relaxant
+- Hegemony Rifle
+- Laser Rifle
+- M1
+- Winchester Rifle
+- Dungeon Eagle
+- Owl
+- Chaos Ammolet
+- Gold Ammolet
+- Lodestone Ammolet
+- Uranium Ammolet
+- Gunboots
+- Springheel Boots
+- Helix
+- Helix Bullets
+- Stuffed Star
+- Heck Blaster
+- Dragunfire
+- Scattershot
+- Homing Bullets
+- Stout Bullets
+- Double Vision
+- Gilded Hydra
+- Old Goldie
+- Light Gun
+- Blank Bullets
+- Proton Backpack
+- Ghost Bullets
+- Flare Gun
+- Medkit
+- Holey Grail
+- Orange Guon Stone
+- Ammo Synthesizer
+- Pulse Cannon
+- Heart Lunchbox
+- Heart Bottle
+- Heart Purse
+- Heart Locket
+- Trick Gun
+- Bloody Eye
+- Rolling Eye
+- Fightsabre
+- Knife Shield
+- Master of Unlocking
+- Old Knight's Flask
+- Shotga Cola
+- Potion of Gun Friendship
+- Shotgun Coffee
+- Potion of Lead Skin
+- Mailbox
+- Snowballer
+- Tangler
+- Thompson Sub-Machinegun
+- Laser Sight
+- Nanomachines
+- Trashcannon
+- Megahand
+- Balloon Gun
+- Mega Douser
+- Aged Bell
+- Buzzkill
+- Mahoguny
+- Ring of Ethereal Form
+- Table Tech Money
+- Pickups
+- Coin Crown
+- Knight's Gun
+- Pea Shooter
+- Green Guon Stone
+- Junk
+- Backup Gun
+- Ice Breaker
+- Patriot
+- Utility Belt
+- Grey Mauser
+- Lower Case r
+- Bracket Key
+- Demon Head
+- Pitchfork
+- Yari Launcher
+- Oiled Cylinder
+- Cobalt Hammer
+- Anvillain
+- H4mmer
+- Hyper Light Blaster
+- Heavy Boots
+- GuNNER
+- Stone Dome
+- Lament Configurum
+- Vulcan Cannon
+- Jolter
+- Singularity
+- Sixth Chamber
+- Yellow Chamber
+- Table Tech Blanks
+- Table Tech Shotgun
+- Table Tech Heat
+- Liquid Valkyrie
+- Banana
+- Charm Horn
+- Cloranthy Ring
+- Flame Hand
+- Microtransaction Gun
+- Crisis Stone
+- Table Tech Rocket
+- Heroine
+- Cigarettes
+- Ration
+- Wolf
+- Ancient Hero's Bandana
+- Super Meat Gun
+- Freeze Ray
+- Flash Ray
+- Ice Cube
+- Huntsman
+- Fat Bullets
+- Blooper
+- Elephant Gun
+- Regular Shotgun
+- Void Shotgun
+- Zilla Shotgun
+- MAC10
+- The Exotic
+- Frost Giant
+- Quad Laser
+- Moonscraper
+- Magazine Rack
+- High Kaliber
+- Chaos Bullets
+- Metronome
+- JK-47
+- Shadow Clone
+- Klobbe
+- AU Gun
+- Ballistic Boots
+- Rad Gun
+- Sunglasses
+- Riddle of Lead
+- Lichy Trigger Finger
+- Barrel
+- Composite Gun
+- Full Metal Jacket
+- Laser Lotus
+- Shotgun Full of Love
+- Backpack
+- 3rd Party Controller
+- Cat Bullet King Throne
+- Makarov
+- Mass Shotgun
+- Chamber Gun
+- Chance Bullets
+- Gungeon Pepper
+- Glass Cannon
+- Glass Guon Stone
+- Big Boy
+- Shield of the Maiden
+- Teapot
+- Mr. Accretion Jr.
+- Napalm Strike
+- Evolver
+- Angry Bullets
+- Table Tech Rage
+- Rattler
+- Winchester
+- Ballot
+- Table Tech Stun
+- Plague Pistol
+- Gundromeda Strain
+- Map
+- Particulator
+- Stinger
+- Old Knight's Helm
+- Old Knight's Shield
+- Starpew
+- Crutch
+- Wood Beam
+- Wax Wings
+- Unfinished Gun
+- Weird Egg
+- Wingman
+- Pink Guon Stone
+- Triple Gun
+- Ring of Miserly Protection
+- SAA
+- Prototype Railgun
+- Teleporter Prototype
+- Raiden Coil
+- Space Friend
+- Bloodied Scarf
+- Red Guon Stone
+- Easy Reload Bullets
+- Relodestone
+- Elimentaler
+- Resourceful Sack
+- Partially-Eaten Cheese
+- Rat Boots
+- RUBE-ADYNE Prototype
+- RUBE-ADYNE MK.II
+- Mimic Tooth Necklace
+- Charming Rounds
+- Finished Gun
+- Book of Chest Anatomy
+- Meatbun
+- Shotbow
+- Chest Teleporter
+- Ticket
+- Gunbow
+- Rocket-Powered Bullets
+- Gunzheng
+- Sling
+- Compressed Air Tank
+- Vorpal Bullets
+- Sponge
+- Molotov Launcher
+- Polaris
+- The Emperor
+- Plunger
+- Gas Mask
+- Hazmat Suit
+- Super Space Turtle
+- Magic Lamp
+- Magic Sweet
+- Sense of Direction
+- Heart Synthesizer
+- Armor Synthesizer
+- Ser Junkan
+- Turkey
+- Clown Mask
+- Baby Good Mimic
+- Tear Jerker
+- Grenade Launcher
+- Machine Fist
+- Advanced Gungeons & Draguns Update
+- Charm
+- Coolness
+- Cormorant
+- Curse
+- Guns
+- Professional
+- Resourceful Rat
+- Rubenstein's Monster
+- Shop
+- Shotgun Kin
+- Shrines
+- Slow
+- Sniper Shell
+- Makeshift Cannon
+- T-Shirt Cannon
+- Science Cannon
+- Poxcannon
+- The Predator
+- Really Special Lute
+- White Guon Stone
+- The Judge
+- Grasschopper
+- Shades's Revolver
+- Smiley's Revolver
+- Triple Crossbow
+- Sticky Crossbow
+- Turtle Problem
+- Snakemaker
+- Glacier
+- Bloody 9mm
+- Void Core Cannon
+- Disintegrator
+- Directional Pad
+- Sunlight Javelin
+- Daruma
+
+## Dead Cells
+- Home/source root: https://deadcells.fandom.com
+
+### Mutations
+- URL: https://deadcells.fandom.com/wiki/Category:Mutations
+- Extracted entries: 61
+- Acceptance
+- Acrobatipack
+- Adrenaline
+- Alienation
+- Ammo
+- Armadillopack
+- Barbed Tips
+- Berserker
+- Blind Faith
+- Combo
+- Counterattack
+- Crow's Foot
+- Dead Inside
+- Disengagement
+- Efficiency
+- Emergency Triage
+- Extended Healing
+- Fireworks Technician
+- Frenzy
+- Frostbite
+- Gastronomy
+- Get Rich Quick
+- Gold Plating
+- Heart of Ice
+- Hunter's Instinct
+- Initiative
+- Instinct of the Master of Arms
+- Kill Rhythm
+- Killer Instinct
+- Lacerator
+- Masochist
+- Melee (Mutation)
+- Midas' Blood
+- Necromancy
+- Networking
+- No Mercy
+- Open Wounds
+- Parting Gift
+- Point Blank
+- Porcupack
+- Predator
+- Ranger's Gear
+- Recovery
+- Ripper
+- Sadism
+- Scheme
+- Soldier's Resistance
+- Spite
+- Support
+- Tactical Retreat
+- Tainted Flask
+- Tranquility
+- Velocity
+- Vengeance
+- What Doesn't Kill Me
+- Wish
+- Ygdar Orus Li Ox
+- Category:Brutality mutations
+- Category:Colorless mutations
+- Category:Survival mutations
+- Category:Tactics mutations
+
+### Melee weapons
+- URL: https://deadcells.fandom.com/wiki/Category:Melee_weapons
+- Extracted entries: 65
+- Abyssal Trident
+- Alucard's Sword
+- Assassin's Dagger
+- Balanced Blade
+- Baseball Bat
+- Bible
+- Bladed Tonfas
+- Blood Sword
+- Bone
+- Broadsword
+- Crowbar
+- Cursed Sword
+- Dagger of Profit
+- Ferryman's Lantern
+- Flashing Fans
+- Flawless
+- Flint
+- Frantic Sword
+- Giantkiller
+- Gold Digger
+- Hand Hook
+- Hard Light Sword
+- Hattori's Katana
+- Hayabusa Boots
+- Hayabusa Gauntlets
+- Impaler (Weapon)
+- Iron Staff
+- King Scepter
+- Machete and Pistol
+- Maw of the Deep
+- Meat Skewer
+- Morning Star
+- Nutcracker
+- Oiled Sword
+- Oven Axe
+- Panchaku
+- Pure Nail
+- Queen's Rapier
+- Rapier
+- Rhythm n' Bouzouki
+- Rusty Sword
+- Sadist's Stiletto
+- Scythe Claw
+- Seismic Strike
+- Shovel
+- Shrapnel Axes
+- Snake Fangs
+- Spartan Sandals
+- Spiked Boots
+- Spite Sword
+- Starfury
+- Swift Sword
+- Symmetrical Lance
+- Tentacle
+- Tombstone
+- Toothpick
+- Torch
+- Twin Daggers
+- Valmont's Whip
+- Vampire Killer
+- Vorpan
+- War Spear
+- Whip Sword
+- Wrecking Ball
+- Wrenching Whip
+
+### Ranged weapons
+- URL: https://deadcells.fandom.com/wiki/Category:Ranged_weapons
+- Extracted entries: 39
+- Alchemic Carbine
+- Barrel Launcher
+- Beginner's Bow
+- Blowgun
+- Boomerang
+- Bow and Endless Quiver
+- Cross
+- Electric Whip
+- Explosive Crossbow
+- Fire Blast
+- Firebrands
+- Frost Blast
+- Gilded Yumi
+- Heavy Crossbow
+- Hemorrhage
+- Hokuto's Bow
+- Ice Bow
+- Ice Crossbow
+- Ice Shards
+- Infantry Bow
+- Killing Deck
+- Laser Glaive
+- Lightning Bolt
+- Magic Bow
+- Magic Missiles
+- Marksman's Bow
+- Money Shooter
+- Multiple-nocks Bow
+- Nerves of Steel
+- Peril Glyphs
+- Pyrotechnics
+- Quick Bow
+- Repeater Crossbow
+- Sonic Carbine
+- The Boy's Axe
+- Throwable Objects
+- Throwing Axe
+- Throwing Knife
+- War Javelin
+
+### Skills
+- URL: https://deadcells.fandom.com/wiki/Category:Skills
+- Extracted entries: 4
+- Deployable Traps
+- Gear
+- Grenades
+- Powers

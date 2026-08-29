@@ -1,0 +1,29 @@
+[gd_scene load_steps=5 format=3]
+
+[ext_resource type="Script" path="res://scripts/xp_orb.gd" id="1_xp"]
+
+[sub_resource type="SphereMesh" id="1_mesh"]
+radius = 0.22
+height = 0.44
+
+[sub_resource type="StandardMaterial3D" id="2_mat"]
+albedo_color = Color(0.35, 1, 0.55, 1)
+emission_enabled = true
+emission = Color(0.2, 1, 0.45, 1)
+emission_energy_multiplier = 0.6
+shading_mode = 0
+
+[sub_resource type="SphereShape3D" id="3_shape"]
+radius = 0.28
+
+[node name="XpOrb" type="Node3D"]
+script = ExtResource("1_xp")
+
+[node name="Area3D" type="Area3D" parent="."]
+
+[node name="CollisionShape3D" type="CollisionShape3D" parent="Area3D"]
+shape = SubResource("3_shape")
+
+[node name="MeshInstance3D" type="MeshInstance3D" parent="."]
+mesh = SubResource("1_mesh")
+material_override = SubResource("2_mat")

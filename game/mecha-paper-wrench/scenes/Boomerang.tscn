@@ -1,0 +1,59 @@
+[gd_scene load_steps=8 format=3]
+
+[ext_resource type="Script" path="res://scripts/boomerang.gd" id="1_boom"]
+
+[sub_resource type="SphereShape3D" id="1_sphere"]
+radius = 0.5
+
+[sub_resource type="TorusMesh" id="2_torus"]
+inner_radius = 0.12
+outer_radius = 0.55
+rings = 20
+ring_sides = 10
+
+[sub_resource type="StandardMaterial3D" id="3_boom_mat"]
+albedo_color = Color(1, 0.882353, 0.270588, 1)
+emission_enabled = true
+emission = Color(1, 0.784314, 0.2, 1)
+emission_energy_multiplier = 0.65
+shading_mode = 0
+
+[sub_resource type="ParticleProcessMaterial" id="4_trail_process"]
+emission_shape = 1
+emission_sphere_radius = 0.08
+direction = Vector3(0, 0, -1)
+spread = 25.0
+initial_velocity_min = 0.4
+initial_velocity_max = 1.0
+gravity = Vector3(0, 0, 0)
+scale_min = 0.18
+scale_max = 0.34
+color = Color(1, 0.92, 0.35, 1)
+color_ramp = null
+
+[sub_resource type="QuadMesh" id="5_trail_mesh"]
+size = Vector2(0.18, 0.18)
+
+[node name="Boomerang" type="Area3D"]
+script = ExtResource("1_boom")
+monitoring = true
+monitorable = true
+collision_layer = 2
+collision_mask = 1
+
+[node name="CollisionShape3D" type="CollisionShape3D" parent="."]
+shape = SubResource("1_sphere")
+
+[node name="MeshInstance3D" type="MeshInstance3D" parent="."]
+mesh = SubResource("2_torus")
+material_override = SubResource("3_boom_mat")
+
+[node name="Trail" type="GPUParticles3D" parent="."]
+amount = 16
+lifetime = 0.22
+explosiveness = 0.0
+randomness = 0.28
+process_material = SubResource("4_trail_process")
+draw_pass_1 = SubResource("5_trail_mesh")
+trail_enabled = true
+fixed_fps = 60

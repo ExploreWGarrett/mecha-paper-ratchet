@@ -1,0 +1,101 @@
+[gd_scene load_steps=9 format=3]
+
+[ext_resource type="Script" path="res://scripts/enemy.gd" id="1_enemy"]
+
+[sub_resource type="CapsuleShape3D" id="1_capsule"]
+radius = 0.6
+height = 1.2
+
+[sub_resource type="CylinderMesh" id="2_body"]
+top_radius = 0.6
+bottom_radius = 0.6
+height = 1.6
+radial_segments = 12
+rings = 1
+
+[sub_resource type="StandardMaterial3D" id="3_body_mat"]
+albedo_color = Color(1, 0.45098, 0.380392, 1)
+shading_mode = 0
+
+[sub_resource type="SphereMesh" id="4_core_mesh"]
+radius = 0.22
+height = 0.44
+
+[sub_resource type="StandardMaterial3D" id="5_core_mat"]
+albedo_color = Color(1, 0.84, 0.3, 1)
+emission_enabled = true
+emission = Color(1, 0.7, 0.18, 1)
+emission_energy_multiplier = 0.45
+shading_mode = 0
+
+[sub_resource type="BoxMesh" id="6_health_back_mesh"]
+size = Vector3(1, 0.12, 0.08)
+
+[sub_resource type="StandardMaterial3D" id="7_health_back_mat"]
+albedo_color = Color(0.12, 0.14, 0.18, 1)
+shading_mode = 0
+
+[sub_resource type="BoxMesh" id="8_health_fill_mesh"]
+size = Vector3(1, 0.08, 0.05)
+
+[sub_resource type="StandardMaterial3D" id="9_health_fill_mat"]
+albedo_color = Color(0.95, 0.22, 0.28, 1)
+emission_enabled = true
+emission = Color(0.85, 0.18, 0.22, 1)
+emission_energy_multiplier = 0.2
+shading_mode = 0
+
+[sub_resource type="TorusMesh" id="10_mark_ring_mesh"]
+inner_radius = 0.18
+outer_radius = 0.28
+rings = 18
+ring_sides = 8
+
+[sub_resource type="StandardMaterial3D" id="11_mark_ring_mat"]
+albedo_color = Color(1, 0.94, 0.45, 0)
+emission_enabled = true
+emission = Color(1, 0.88, 0.35, 1)
+emission_energy_multiplier = 1.2
+shading_mode = 0
+transparency = 1
+
+[node name="Enemy" type="CharacterBody3D"]
+script = ExtResource("1_enemy")
+enemy_family = &"grunt"
+role_tags = PackedStringArray("ground", "melee", "projectile")
+
+[node name="CollisionShape3D" type="CollisionShape3D" parent="."]
+shape = SubResource("1_capsule")
+position = Vector3(0, 0.9, 0)
+
+[node name="BodyMesh" type="MeshInstance3D" parent="."]
+mesh = SubResource("2_body")
+material_override = SubResource("3_body_mat")
+position = Vector3(0, 0.9, 0)
+
+[node name="CoreMesh" type="MeshInstance3D" parent="."]
+mesh = SubResource("4_core_mesh")
+material_override = SubResource("5_core_mat")
+position = Vector3(0, 1.05, 0.48)
+
+[node name="Muzzle" type="Node3D" parent="."]
+position = Vector3(0, 1.0, 0.75)
+
+[node name="HealthBarRoot" type="Node3D" parent="."]
+position = Vector3(0, 2.1, 0)
+
+[node name="HealthBack" type="MeshInstance3D" parent="HealthBarRoot"]
+mesh = SubResource("6_health_back_mesh")
+material_override = SubResource("7_health_back_mat")
+
+[node name="HealthFill" type="MeshInstance3D" parent="HealthBarRoot"]
+mesh = SubResource("8_health_fill_mesh")
+material_override = SubResource("9_health_fill_mat")
+position = Vector3(0, 0, -0.02)
+
+[node name="MarkIndicator" type="MeshInstance3D" parent="."]
+visible = false
+mesh = SubResource("10_mark_ring_mesh")
+material_override = SubResource("11_mark_ring_mat")
+position = Vector3(0, 1.45, 0)
+rotation = Vector3(1.5708, 0, 0)

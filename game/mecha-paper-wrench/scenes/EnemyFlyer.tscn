@@ -1,0 +1,100 @@
+[gd_scene load_steps=10 format=3]
+
+[ext_resource type="Script" path="res://scripts/enemy.gd" id="1_enemy"]
+
+[sub_resource type="CapsuleShape3D" id="1_capsule"]
+radius = 0.45
+height = 0.9
+
+[sub_resource type="SphereMesh" id="2_body"]
+radius = 0.52
+height = 1.04
+
+[sub_resource type="StandardMaterial3D" id="3_body_mat"]
+albedo_color = Color(0.42, 0.8, 1, 1)
+emission_enabled = true
+emission = Color(0.16, 0.55, 1, 1)
+emission_energy_multiplier = 0.28
+shading_mode = 0
+
+[sub_resource type="SphereMesh" id="4_core_mesh"]
+radius = 0.18
+height = 0.36
+
+[sub_resource type="StandardMaterial3D" id="5_core_mat"]
+albedo_color = Color(0.92, 0.98, 1, 1)
+emission_enabled = true
+emission = Color(0.65, 0.88, 1, 1)
+emission_energy_multiplier = 0.55
+shading_mode = 0
+
+[sub_resource type="BoxMesh" id="6_health_back_mesh"]
+size = Vector3(1, 0.12, 0.08)
+
+[sub_resource type="StandardMaterial3D" id="7_health_back_mat"]
+albedo_color = Color(0.12, 0.14, 0.18, 1)
+shading_mode = 0
+
+[sub_resource type="BoxMesh" id="8_health_fill_mesh"]
+size = Vector3(1, 0.08, 0.05)
+
+[sub_resource type="StandardMaterial3D" id="9_health_fill_mat"]
+albedo_color = Color(0.25, 0.85, 1, 1)
+emission_enabled = true
+emission = Color(0.18, 0.72, 1, 1)
+emission_energy_multiplier = 0.2
+shading_mode = 0
+
+[node name="EnemyFlyer" type="CharacterBody3D"]
+script = ExtResource("1_enemy")
+enemy_family = &"flyer"
+role_tags = PackedStringArray("flying", "ranged", "skirmisher")
+max_health = 2
+move_speed = 4.4
+patrol_range = 1.8
+patrol_speed = 1.9
+pursue_range = 18.0
+preferred_range = 8.8
+retreat_range = 5.8
+melee_range = 0.0
+projectile_range = 16.0
+projectile_damage = 1
+projectile_cooldown = 1.15
+projectile_speed = 13.5
+xp_drop_amount = 50
+xp_orb_count = 2
+use_melee_attack = false
+use_projectile_attack = true
+is_flying = true
+hover_height = 2.35
+hover_bob_amount = 0.22
+hover_bob_speed = 2.5
+
+[node name="CollisionShape3D" type="CollisionShape3D" parent="."]
+shape = SubResource("1_capsule")
+position = Vector3(0, 1.0, 0)
+
+[node name="BodyMesh" type="MeshInstance3D" parent="."]
+mesh = SubResource("2_body")
+material_override = SubResource("3_body_mat")
+position = Vector3(0, 1.0, 0)
+
+[node name="CoreMesh" type="MeshInstance3D" parent="."]
+mesh = SubResource("4_core_mesh")
+material_override = SubResource("5_core_mat")
+position = Vector3(0, 1.0, 0.58)
+
+[node name="Muzzle" type="Node3D" parent="."]
+position = Vector3(0, 1.0, 0.7)
+
+[node name="HealthBarRoot" type="Node3D" parent="."]
+position = Vector3(0, 1.95, 0)
+
+[node name="HealthBack" type="MeshInstance3D" parent="HealthBarRoot"]
+mesh = SubResource("6_health_back_mesh")
+material_override = SubResource("7_health_back_mat")
+
+[node name="HealthFill" type="MeshInstance3D" parent="HealthBarRoot"]
+mesh = SubResource("8_health_fill_mesh")
+material_override = SubResource("9_health_fill_mat")
+position = Vector3(0, 0, -0.02)

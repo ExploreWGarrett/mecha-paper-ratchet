@@ -1,0 +1,128 @@
+[gd_scene load_steps=12 format=3]
+
+[ext_resource type="Script" path="res://scripts/enemy.gd" id="1_enemy"]
+
+[sub_resource type="CapsuleShape3D" id="1_capsule"]
+radius = 1.0
+height = 2.2
+
+[sub_resource type="CylinderMesh" id="2_body"]
+top_radius = 1.0
+bottom_radius = 1.12
+height = 2.5
+radial_segments = 14
+rings = 1
+
+[sub_resource type="StandardMaterial3D" id="3_body_mat"]
+albedo_color = Color(0.78, 0.22, 0.25, 1)
+emission_enabled = true
+emission = Color(0.45, 0.08, 0.1, 1)
+emission_energy_multiplier = 0.22
+shading_mode = 0
+
+[sub_resource type="SphereMesh" id="4_core_mesh"]
+radius = 0.34
+height = 0.68
+
+[sub_resource type="StandardMaterial3D" id="5_core_mat"]
+albedo_color = Color(1, 0.82, 0.35, 1)
+emission_enabled = true
+emission = Color(1, 0.45, 0.16, 1)
+emission_energy_multiplier = 0.65
+shading_mode = 0
+
+[sub_resource type="BoxMesh" id="6_health_back_mesh"]
+size = Vector3(1.4, 0.14, 0.08)
+
+[sub_resource type="StandardMaterial3D" id="7_health_back_mat"]
+albedo_color = Color(0.12, 0.14, 0.18, 1)
+shading_mode = 0
+
+[sub_resource type="BoxMesh" id="8_health_fill_mesh"]
+size = Vector3(1.4, 0.1, 0.05)
+
+[sub_resource type="StandardMaterial3D" id="9_health_fill_mat"]
+albedo_color = Color(1, 0.22, 0.28, 1)
+emission_enabled = true
+emission = Color(0.85, 0.18, 0.22, 1)
+emission_energy_multiplier = 0.24
+shading_mode = 0
+
+[sub_resource type="CylinderMesh" id="10_aoe_mesh"]
+top_radius = 1.0
+bottom_radius = 1.0
+height = 0.08
+radial_segments = 32
+rings = 1
+
+[sub_resource type="StandardMaterial3D" id="11_aoe_mat"]
+transparency = 1
+albedo_color = Color(1, 0.2, 0.78, 0.28)
+emission_enabled = true
+emission = Color(0.95, 0.18, 0.75, 1)
+emission_energy_multiplier = 0.65
+shading_mode = 0
+no_depth_test = true
+
+[node name="MiniBoss" type="CharacterBody3D"]
+script = ExtResource("1_enemy")
+enemy_family = &"miniboss"
+role_tags = PackedStringArray("ground", "boss", "tank", "aoe")
+max_health = 16
+move_speed = 2.9
+patrol_range = 1.4
+patrol_speed = 1.1
+pursue_range = 12.5
+melee_range = 2.8
+melee_damage = 2
+melee_cooldown = 1.75
+melee_windup_time = 0.3
+projectile_range = 10.5
+projectile_damage = 2
+projectile_cooldown = 2.2
+projectile_speed = 10.0
+stagger_time = 0.14
+xp_drop_amount = 180
+xp_orb_count = 6
+use_melee_attack = true
+use_projectile_attack = true
+use_aoe_attack = true
+aoe_range = 4.8
+aoe_damage = 2
+aoe_cooldown = 4.1
+aoe_windup_time = 0.55
+
+[node name="CollisionShape3D" type="CollisionShape3D" parent="."]
+shape = SubResource("1_capsule")
+position = Vector3(0, 1.35, 0)
+
+[node name="BodyMesh" type="MeshInstance3D" parent="."]
+mesh = SubResource("2_body")
+material_override = SubResource("3_body_mat")
+position = Vector3(0, 1.35, 0)
+
+[node name="CoreMesh" type="MeshInstance3D" parent="."]
+mesh = SubResource("4_core_mesh")
+material_override = SubResource("5_core_mat")
+position = Vector3(0, 1.55, 0.82)
+
+[node name="Muzzle" type="Node3D" parent="."]
+position = Vector3(0, 1.45, 1.15)
+
+[node name="HealthBarRoot" type="Node3D" parent="."]
+position = Vector3(0, 3.05, 0)
+
+[node name="HealthBack" type="MeshInstance3D" parent="HealthBarRoot"]
+mesh = SubResource("6_health_back_mesh")
+material_override = SubResource("7_health_back_mat")
+
+[node name="HealthFill" type="MeshInstance3D" parent="HealthBarRoot"]
+mesh = SubResource("8_health_fill_mesh")
+material_override = SubResource("9_health_fill_mat")
+position = Vector3(0, 0, -0.02)
+
+[node name="AoeIndicator" type="MeshInstance3D" parent="."]
+mesh = SubResource("10_aoe_mesh")
+material_override = SubResource("11_aoe_mat")
+position = Vector3(0, 0.06, 0)
+visible = false

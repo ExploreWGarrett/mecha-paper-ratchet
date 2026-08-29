@@ -1,0 +1,38 @@
+[gd_scene load_steps=7 format=3]
+
+[ext_resource type="Script" path="res://scripts/crate.gd" id="1_crate"]
+
+[sub_resource type="PhysicsMaterial" id="1_phys"]
+friction = 1.0
+bounce = 0.0
+rough = true
+
+[sub_resource type="BoxShape3D" id="2_shape"]
+size = Vector3(1.0, 1.0, 1.0)
+
+[sub_resource type="BoxMesh" id="3_mesh"]
+size = Vector3(1.0, 1.0, 1.0)
+
+[sub_resource type="StandardMaterial3D" id="4_material"]
+albedo_color = Color(0.64, 0.42, 0.18, 1)
+emission_enabled = true
+emission = Color(0.18, 0.08, 0.02, 1)
+emission_energy_multiplier = 0.12
+roughness = 0.92
+
+[node name="Crate" type="RigidBody3D"]
+physics_material_override = SubResource("1_phys")
+continuous_cd = true
+can_sleep = true
+contact_monitor = true
+max_contacts_reported = 8
+linear_damp = 1.35
+angular_damp = 2.8
+script = ExtResource("1_crate")
+
+[node name="CollisionShape3D" type="CollisionShape3D" parent="."]
+shape = SubResource("2_shape")
+
+[node name="MeshInstance3D" type="MeshInstance3D" parent="."]
+mesh = SubResource("3_mesh")
+surface_material_override/0 = SubResource("4_material")
