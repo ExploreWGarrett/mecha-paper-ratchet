@@ -25,7 +25,7 @@ Publish and maintain a GitHub repository containing the non-identifying Mecha Pa
 - A root `.gitignore` now excludes generated/editor state, build/export output, logs, local workspace state, and common credential file patterns.
 - A public-facing root `README.md` now summarizes the prototype, structure, verification status, and privacy boundary.
 - A final clean Godot headless boot after publish-prep cleanup exited `0` with no startup warnings.
-- The first portfolio-safe sync has been pushed to a private GitHub repository with `origin` tracking `main`.
+- The first portfolio-safe sync was pushed to GitHub with `origin` tracking `main`, then promoted from private review to public portfolio visibility after a final tracked-file privacy scan.
 
 ## Proposed publish root
 
@@ -97,8 +97,7 @@ Before any remote repository is created or anything is pushed:
 ## Recommended first publication path
 
 1. Private GitHub repository created and pushed.
-2. Review GitHub's rendered file list and README.
-3. If acceptable, switch repository visibility to public for portfolio use.
+2. GitHub-rendered repository promoted to public portfolio visibility after final local verification.
 
 ## Sync procedure after first publication
 
