@@ -2,7 +2,7 @@
 title: GitHub Portfolio Sync Plan
 project: Mecha Paper Ratchet
 type: technical
-status: draft
+status: active
 tags:
   - '#mecha-paper-ratchet'
   - '#github'
@@ -18,13 +18,14 @@ Publish and maintain a GitHub repository containing the non-identifying Mecha Pa
 
 ## Current local status
 
-- The project root is not yet a git repository.
-- The Godot project subfolder is not yet a git repository.
+- The project root is now a git repository on branch `main`.
+- The Godot project subfolder is intentionally part of the root repository, not its own separate git repository.
 - Git is installed.
-- GitHub CLI (`gh`) is installed but not currently authenticated.
+- GitHub CLI (`gh`) is installed and authenticated for the first private sync.
 - A root `.gitignore` now excludes generated/editor state, build/export output, logs, local workspace state, and common credential file patterns.
 - A public-facing root `README.md` now summarizes the prototype, structure, verification status, and privacy boundary.
 - A final clean Godot headless boot after publish-prep cleanup exited `0` with no startup warnings.
+- The first portfolio-safe sync has been pushed to a private GitHub repository with `origin` tracking `main`.
 
 ## Proposed publish root
 
@@ -95,10 +96,9 @@ Before any remote repository is created or anything is pushed:
 
 ## Recommended first publication path
 
-1. Create a private GitHub repository first for a final visual review.
-2. Push the audited project.
-3. Review GitHub's rendered file list and README.
-4. If acceptable, switch repository visibility to public for portfolio use.
+1. Private GitHub repository created and pushed.
+2. Review GitHub's rendered file list and README.
+3. If acceptable, switch repository visibility to public for portfolio use.
 
 ## Sync procedure after first publication
 
